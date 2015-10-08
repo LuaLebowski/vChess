@@ -1,0 +1,44 @@
+%%Excelsior JET v10.5 project file
+
+-compilewithfixedheap-
+-genstackalloc+
+-genstacktrace-
+-global-
+-gui-
+-ignoreclassduplication+
+-ignorememberabsence+
+-inline+
+-multiapp-
+-splashgetfrommanifest-
+
+-apptype=Plain
+-classabsence=HANDLE
+-compilerheap=1744830464
+-inlinelimit=100
+-inlinetolimit=1000
+-javacommandline:=java -jar C:\Users\alexander\workspace\vChess\dist\vChess.jar --useowncli
+-jetcplastpage:=PageCompile
+-jetrt=Desktop
+-jetvmprop=-Djet.gc.heaplimit:0 -Djet.stack.trace
+-main=vChess/MainClass
+-outputdir=.
+-outputname=vChess
+-runarguments=--useowncli
+-saprofmode=NONE
+-stacklimit=900000
+
+
+
+
+!classpathentry ./vChess.jar
+  -pack=noncompiled
+  -protect=all
+  -optimize=all
+!end
+!classpathentry .
+  -pack=none
+  -protect=all
+  -optimize=all
+!end
+
+

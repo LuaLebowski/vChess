@@ -1,0 +1,33 @@
+
+-jetcomponent=10.50
+-jetedition=Evaluation
+-vcode=5
+-sys=C
+-nosmart
+-zimer=0
+-stack=900000
+-LargeAddressAware
+-config=VMProperty:-Djet.gc.heaplimit:0 -Djet.stack.trace
+-config=ClassPath:vChess.jar;.
+-config=JETProfile:5
+-config=JETProfileName:1.7.0_55
+-config=RuntimeKind:DESKTOP
+-EmbeddedFileSys=vChess_jetpdb/vChess.efs
+-config=MainClass:vChess/MainClass
+-config=StandaloneResources:.
+-config=VersionInfo:jet-1050-release (eval, en)
+-config=CompatibilityString:Java SE version: 1.7.0_55; JET update level: 0; CPU architecture: x86
+-name=vChess.exe
+
+-entry=ExeEntryPoint
+
+-LinkFileAsRData=LINK_SplashPicture:C:\jet10.5-eval-x86\lib\x86\dummysplash.lib
+C:\jet10.5-eval-x86\lib\x86\startup-exe-normal.zip
+-config=PackagingOptions:component_microversions=BC-0
+vChess_jetpdb\obj.zip
+-Config=RTComponent:XKRN10505.dll
+C:\jet10.5-eval-x86\lib\x86\startup-rtlink.zip
+C:\jet10.5-eval-x86\lib\x86\import32.lib
+C:\jet10.5-eval-x86\lib\x86\app.res
+-StrictLinkToDLL
+

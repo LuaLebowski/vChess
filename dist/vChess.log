@@ -1,0 +1,1286 @@
+Excelsior JET v10.5 Evaluation Version 64-bit (c) Excelsior 1997,2013
+Active Java SE Version 1.7.0_55 (profile 5)
+************************  JET v10.5 EVALUATION **************************
+*  This program cannot be used in a business, commercial, government,  *
+*  or  institutional  environment  except  for  evaluation  purposes.  *
+************************************************************************
+Make project "C:\Users\alexander\workspace\vChess\dist\vChess.prj"
+64-bit Excelsior JET for Windows does not yet support Startup Accelerator
+Reading vChess.jar ...  414 classes
+Reading . ...  0 classes
+
+Total compilable classes within classpath entries: 414
+
+------------------------  Parsing Stage  ---------------------------------------
+
+   1/414: vChess.jar:/vChess/LocalizableStrings$Errors.class
+   2/414: vChess.jar:/vChess/LocalizableStrings$Messages.class
+   3/414: vChess.jar:/vChess/LocalizableStrings$Welcomes.class
+   4/414: vChess.jar:/vChess/LocalizableStrings.class
+   5/414: vChess.jar:/vChess/OwnCli.class
+   6/414: vChess.jar:/vChess/HandyUtil.class
+   7/414: vChess.jar:/vChess/SharedData.class
+   8/414: vChess.jar:/vChess/Engine.class
+   9/414: vChess.jar:/vChess/Coefficients.class
+  10/414: vChess.jar:/vChess/MainClass.class
+  11/414: vChess.jar:/vChess/UTEngine.class
+  12/414: vChess.jar:/vChess/Flags.class
+  13/414: vChess.jar:/vChess/ICli.class
+  14/414: vChess.jar:/chesspresso/Chess.class
+  15/414: vChess.jar:/chesspresso/engines/ChXBoardEngine$1.class
+  16/414: vChess.jar:/chesspresso/engines/ChXBoardEngine$AnalysisListener.class
+  17/414: vChess.jar:/chesspresso/engines/ChXBoardEngine$EngineMessageListener.class
+  18/414: vChess.jar:/chesspresso/engines/ChXBoardEngine$Listener.class
+  19/414: vChess.jar:/chesspresso/engines/ChXBoardEngine.class
+  20/414: vChess.jar:/chesspresso/game/DefaultGameScorer.class
+  21/414: vChess.jar:/chesspresso/game/Game.class
+  22/414: vChess.jar:/chesspresso/game/GameHeaderModel.class
+  23/414: vChess.jar:/chesspresso/game/GameListener.class
+  24/414: vChess.jar:/chesspresso/game/GameModel.class
+  25/414: vChess.jar:/chesspresso/game/GameModelChangeListener.class
+  26/414: vChess.jar:/chesspresso/game/GameModelIterator.class
+  27/414: vChess.jar:/chesspresso/game/GameMoveModel.class
+  28/414: vChess.jar:/chesspresso/game/GameScorer.class
+  29/414: vChess.jar:/chesspresso/game/view/GameBrowser$1.class
+  30/414: vChess.jar:/chesspresso/game/view/GameBrowser$10.class
+  31/414: vChess.jar:/chesspresso/game/view/GameBrowser$11.class
+  32/414: vChess.jar:/chesspresso/game/view/GameBrowser$12.class
+  33/414: vChess.jar:/chesspresso/game/view/GameBrowser$13.class
+  34/414: vChess.jar:/chesspresso/game/view/GameBrowser$2.class
+  35/414: vChess.jar:/chesspresso/game/view/GameBrowser$3.class
+  36/414: vChess.jar:/chesspresso/game/view/GameBrowser$4.class
+  37/414: vChess.jar:/chesspresso/game/view/GameBrowser$5.class
+  38/414: vChess.jar:/chesspresso/game/view/GameBrowser$6.class
+  39/414: vChess.jar:/chesspresso/game/view/GameBrowser$7.class
+  40/414: vChess.jar:/chesspresso/game/view/GameBrowser$8.class
+  41/414: vChess.jar:/chesspresso/game/view/GameBrowser$9.class
+  42/414: vChess.jar:/chesspresso/game/view/GameBrowser.class
+  43/414: vChess.jar:/chesspresso/game/view/GameTextViewer$1.class
+  44/414: vChess.jar:/chesspresso/game/view/GameTextViewer$2.class
+  45/414: vChess.jar:/chesspresso/game/view/GameTextViewer$3.class
+  46/414: vChess.jar:/chesspresso/game/view/GameTextViewer.class
+  47/414: vChess.jar:/chesspresso/game/view/HTMLGameBrowser.class
+  48/414: vChess.jar:/chesspresso/move/IllegalMoveException.class
+  49/414: vChess.jar:/chesspresso/move/Move.class
+  50/414: vChess.jar:/chesspresso/pgn/PGN.class
+  51/414: vChess.jar:/chesspresso/pgn/PGNErrorHandler.class
+  52/414: vChess.jar:/chesspresso/pgn/PGNReader$1.class
+  53/414: vChess.jar:/chesspresso/pgn/PGNReader.class
+  54/414: vChess.jar:/chesspresso/pgn/PGNSimpleErrorHandler.class
+  55/414: vChess.jar:/chesspresso/pgn/PGNSyntaxError.class
+  56/414: vChess.jar:/chesspresso/pgn/PGNWriter$1.class
+  57/414: vChess.jar:/chesspresso/pgn/PGNWriter.class
+  58/414: vChess.jar:/chesspresso/position/AbstractMoveablePosition.class
+  59/414: vChess.jar:/chesspresso/position/AbstractMutablePosition.class
+  60/414: vChess.jar:/chesspresso/position/AbstractPosition.class
+  61/414: vChess.jar:/chesspresso/position/CompactPosition.class
+  62/414: vChess.jar:/chesspresso/position/FEN.class
+  63/414: vChess.jar:/chesspresso/position/IllegalPositionException.class
+  64/414: vChess.jar:/chesspresso/position/ImmutablePosition.class
+  65/414: vChess.jar:/chesspresso/position/LightWeightPosition.class
+  66/414: vChess.jar:/chesspresso/position/MoveablePosition.class
+  67/414: vChess.jar:/chesspresso/position/MutablePosition.class
+  68/414: vChess.jar:/chesspresso/position/NAG.class
+  69/414: vChess.jar:/chesspresso/position/Position.class
+  70/414: vChess.jar:/chesspresso/position/PositionChangeListener.class
+  71/414: vChess.jar:/chesspresso/position/PositionListener.class
+  72/414: vChess.jar:/chesspresso/position/PositionMotionListener.class
+  73/414: vChess.jar:/chesspresso/position/view/PositionView.class
+  74/414: vChess.jar:/chesspresso/position/view/PositionViewProperties$1.class
+  75/414: vChess.jar:/chesspresso/position/view/PositionViewProperties$2.class
+  76/414: vChess.jar:/chesspresso/position/view/PositionViewProperties$3.class
+  77/414: vChess.jar:/chesspresso/position/view/PositionViewProperties$4.class
+  78/414: vChess.jar:/chesspresso/position/view/PositionViewProperties$5.class
+  79/414: vChess.jar:/chesspresso/position/view/PositionViewProperties$6.class
+  80/414: vChess.jar:/chesspresso/position/view/PositionViewProperties$7.class
+  81/414: vChess.jar:/chesspresso/position/view/PositionViewProperties$8.class
+  82/414: vChess.jar:/chesspresso/position/view/PositionViewProperties$FontListRenderer.class
+  83/414: vChess.jar:/chesspresso/position/view/PositionViewProperties.class
+  84/414: vChess.jar:/org/junit/ClassRule.class
+  85/414: vChess.jar:/org/junit/Assert.class
+  86/414: vChess.jar:/org/junit/After.class
+  87/414: vChess.jar:/org/junit/rules/Stopwatch$Clock.class
+  88/414: vChess.jar:/org/junit/rules/DisableOnDebug.class
+  89/414: vChess.jar:/org/junit/rules/ExternalResource.class
+  90/414: vChess.jar:/org/junit/rules/TestWatcher$1.class
+  91/414: vChess.jar:/org/junit/rules/TemporaryFolder.class
+  92/414: vChess.jar:/org/junit/rules/Timeout$Builder.class
+  93/414: vChess.jar:/org/junit/rules/RunRules.class
+  94/414: vChess.jar:/org/junit/rules/TestWatchman$1.class
+  95/414: vChess.jar:/org/junit/rules/Verifier$1.class
+  96/414: vChess.jar:/org/junit/rules/ExpectedException.class
+  97/414: vChess.jar:/org/junit/rules/ExpectedException$ExpectedExceptionStatement.class
+  98/414: vChess.jar:/org/junit/rules/RuleChain.class
+  99/414: vChess.jar:/org/junit/rules/ErrorCollector$1.class
+ 100/414: vChess.jar:/org/junit/rules/TestRule.class
+ 101/414: vChess.jar:/org/junit/rules/Verifier.class
+ 102/414: vChess.jar:/org/junit/rules/Stopwatch.class
+ 103/414: vChess.jar:/org/junit/rules/Stopwatch$1.class
+ 104/414: vChess.jar:/org/junit/rules/Timeout.class
+ 105/414: vChess.jar:/org/junit/rules/ExpectedExceptionMatcherBuilder.class
+ 106/414: vChess.jar:/org/junit/rules/MethodRule.class
+ 107/414: vChess.jar:/org/junit/rules/Timeout$1.class
+ 108/414: vChess.jar:/org/junit/rules/ExternalResource$1.class
+ 109/414: vChess.jar:/org/junit/rules/TestWatchman.class
+ 110/414: vChess.jar:/org/junit/rules/ErrorCollector.class
+ 111/414: vChess.jar:/org/junit/rules/TestWatcher.class
+ 112/414: vChess.jar:/org/junit/rules/Stopwatch$InternalWatcher.class
+ 113/414: vChess.jar:/org/junit/rules/TestName.class
+ 114/414: vChess.jar:/org/junit/AssumptionViolatedException.class
+ 115/414: vChess.jar:/org/junit/ComparisonFailure$ComparisonCompactor$DiffExtractor.class
+ 116/414: vChess.jar:/org/junit/Assume.class
+ 117/414: vChess.jar:/org/junit/runners/AllTests.class
+ 118/414: vChess.jar:/org/junit/runners/Suite$SuiteClasses.class
+ 119/414: vChess.jar:/org/junit/runners/JUnit4.class
+ 120/414: vChess.jar:/org/junit/runners/ParentRunner$1.class
+ 121/414: vChess.jar:/org/junit/runners/BlockJUnit4ClassRunner.class
+ 122/414: vChess.jar:/org/junit/runners/Parameterized$Parameters.class
+ 123/414: vChess.jar:/org/junit/runners/MethodSorters.class
+ 124/414: vChess.jar:/org/junit/runners/ParentRunner$2.class
+ 125/414: vChess.jar:/org/junit/runners/ParentRunner$3.class
+ 126/414: vChess.jar:/org/junit/runners/Parameterized$UseParametersRunnerFactory.class
+ 127/414: vChess.jar:/org/junit/runners/ParentRunner$4.class
+ 128/414: vChess.jar:/org/junit/runners/ParentRunner.class
+ 129/414: vChess.jar:/org/junit/runners/BlockJUnit4ClassRunner$1.class
+ 130/414: vChess.jar:/org/junit/runners/Parameterized$Parameter.class
+ 131/414: vChess.jar:/org/junit/runners/parameterized/ParametersRunnerFactory.class
+ 132/414: vChess.jar:/org/junit/runners/parameterized/TestWithParameters.class
+ 133/414: vChess.jar:/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParameters.class
+ 134/414: vChess.jar:/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParametersFactory.class
+ 135/414: vChess.jar:/org/junit/runners/Suite.class
+ 136/414: vChess.jar:/org/junit/runners/model/MultipleFailureException.class
+ 137/414: vChess.jar:/org/junit/runners/model/RunnerScheduler.class
+ 138/414: vChess.jar:/org/junit/runners/model/NoGenericTypeParametersValidator.class
+ 139/414: vChess.jar:/org/junit/runners/model/TestClass$1.class
+ 140/414: vChess.jar:/org/junit/runners/model/RunnerBuilder.class
+ 141/414: vChess.jar:/org/junit/runners/model/Annotatable.class
+ 142/414: vChess.jar:/org/junit/runners/model/FrameworkField.class
+ 143/414: vChess.jar:/org/junit/runners/model/Statement.class
+ 144/414: vChess.jar:/org/junit/runners/model/TestTimedOutException.class
+ 145/414: vChess.jar:/org/junit/runners/model/FrameworkMember.class
+ 146/414: vChess.jar:/org/junit/runners/model/TestClass.class
+ 147/414: vChess.jar:/org/junit/runners/model/TestClass$FieldComparator.class
+ 148/414: vChess.jar:/org/junit/runners/model/FrameworkMethod.class
+ 149/414: vChess.jar:/org/junit/runners/model/TestClass$MethodComparator.class
+ 150/414: vChess.jar:/org/junit/runners/model/InitializationError.class
+ 151/414: vChess.jar:/org/junit/runners/model/FrameworkMethod$1.class
+ 152/414: vChess.jar:/org/junit/runners/Parameterized.class
+ 153/414: vChess.jar:/org/junit/ComparisonFailure.class
+ 154/414: vChess.jar:/org/junit/matchers/JUnitMatchers.class
+ 155/414: vChess.jar:/org/junit/Test$None.class
+ 156/414: vChess.jar:/org/junit/runner/FilterFactory.class
+ 157/414: vChess.jar:/org/junit/runner/Result.class
+ 158/414: vChess.jar:/org/junit/runner/JUnitCommandLineParseResult$CommandLineParserError.class
+ 159/414: vChess.jar:/org/junit/runner/Result$Listener.class
+ 160/414: vChess.jar:/org/junit/runner/JUnitCommandLineParseResult.class
+ 161/414: vChess.jar:/org/junit/runner/Describable.class
+ 162/414: vChess.jar:/org/junit/runner/FilterFactories.class
+ 163/414: vChess.jar:/org/junit/runner/Result$SerializedForm.class
+ 164/414: vChess.jar:/org/junit/runner/Runner.class
+ 165/414: vChess.jar:/org/junit/runner/RunWith.class
+ 166/414: vChess.jar:/org/junit/runner/manipulation/NoTestsRemainException.class
+ 167/414: vChess.jar:/org/junit/runner/manipulation/Sortable.class
+ 168/414: vChess.jar:/org/junit/runner/manipulation/Filter.class
+ 169/414: vChess.jar:/org/junit/runner/manipulation/Filter$2.class
+ 170/414: vChess.jar:/org/junit/runner/manipulation/Filter$3.class
+ 171/414: vChess.jar:/org/junit/runner/manipulation/Sorter.class
+ 172/414: vChess.jar:/org/junit/runner/manipulation/Sorter$1.class
+ 173/414: vChess.jar:/org/junit/runner/manipulation/Filterable.class
+ 174/414: vChess.jar:/org/junit/runner/manipulation/Filter$1.class
+ 175/414: vChess.jar:/org/junit/runner/JUnitCore.class
+ 176/414: vChess.jar:/org/junit/runner/FilterFactory$FilterNotCreatedException.class
+ 177/414: vChess.jar:/org/junit/runner/Result$1.class
+ 178/414: vChess.jar:/org/junit/runner/Request.class
+ 179/414: vChess.jar:/org/junit/runner/FilterFactoryParams.class
+ 180/414: vChess.jar:/org/junit/runner/Computer$1.class
+ 181/414: vChess.jar:/org/junit/runner/Request$1.class
+ 182/414: vChess.jar:/org/junit/runner/notification/Failure.class
+ 183/414: vChess.jar:/org/junit/runner/notification/RunNotifier.class
+ 184/414: vChess.jar:/org/junit/runner/notification/RunNotifier$1.class
+ 185/414: vChess.jar:/org/junit/runner/notification/RunNotifier$2.class
+ 186/414: vChess.jar:/org/junit/runner/notification/RunNotifier$3.class
+ 187/414: vChess.jar:/org/junit/runner/notification/RunListener$ThreadSafe.class
+ 188/414: vChess.jar:/org/junit/runner/notification/RunNotifier$4.class
+ 189/414: vChess.jar:/org/junit/runner/notification/SynchronizedRunListener.class
+ 190/414: vChess.jar:/org/junit/runner/notification/RunNotifier$SafeNotifier.class
+ 191/414: vChess.jar:/org/junit/runner/notification/RunNotifier$5.class
+ 192/414: vChess.jar:/org/junit/runner/notification/StoppedByUserException.class
+ 193/414: vChess.jar:/org/junit/runner/notification/RunNotifier$6.class
+ 194/414: vChess.jar:/org/junit/runner/notification/RunNotifier$7.class
+ 195/414: vChess.jar:/org/junit/runner/notification/RunListener.class
+ 196/414: vChess.jar:/org/junit/runner/Description.class
+ 197/414: vChess.jar:/org/junit/runner/Computer.class
+ 198/414: vChess.jar:/org/junit/validator/AnnotationsValidator$FieldValidator.class
+ 199/414: vChess.jar:/org/junit/validator/TestClassValidator.class
+ 200/414: vChess.jar:/org/junit/validator/ValidateWith.class
+ 201/414: vChess.jar:/org/junit/validator/AnnotationsValidator$AnnotatableValidator.class
+ 202/414: vChess.jar:/org/junit/validator/AnnotationsValidator$MethodValidator.class
+ 203/414: vChess.jar:/org/junit/validator/AnnotationsValidator$ClassValidator.class
+ 204/414: vChess.jar:/org/junit/validator/AnnotationValidatorFactory.class
+ 205/414: vChess.jar:/org/junit/validator/AnnotationValidator.class
+ 206/414: vChess.jar:/org/junit/validator/AnnotationsValidator$1.class
+ 207/414: vChess.jar:/org/junit/validator/AnnotationsValidator.class
+ 208/414: vChess.jar:/org/junit/validator/PublicClassValidator.class
+ 209/414: vChess.jar:/org/junit/ComparisonFailure$1.class
+ 210/414: vChess.jar:/org/junit/Ignore.class
+ 211/414: vChess.jar:/org/junit/BeforeClass.class
+ 212/414: vChess.jar:/org/junit/Before.class
+ 213/414: vChess.jar:/org/junit/Test.class
+ 214/414: vChess.jar:/org/junit/AfterClass.class
+ 215/414: vChess.jar:/org/junit/FixMethodOrder.class
+ 216/414: vChess.jar:/org/junit/ComparisonFailure$ComparisonCompactor.class
+ 217/414: vChess.jar:/org/junit/internal/ExactComparisonCriteria.class
+ 218/414: vChess.jar:/org/junit/internal/matchers/ThrowableMessageMatcher.class
+ 219/414: vChess.jar:/org/junit/internal/matchers/TypeSafeMatcher.class
+ 220/414: vChess.jar:/org/junit/internal/matchers/StacktracePrintingMatcher.class
+ 221/414: vChess.jar:/org/junit/internal/matchers/ThrowableCauseMatcher.class
+ 222/414: vChess.jar:/org/junit/internal/ArrayComparisonFailure.class
+ 223/414: vChess.jar:/org/junit/internal/InexactComparisonCriteria.class
+ 224/414: vChess.jar:/org/junit/internal/TextListener.class
+ 225/414: vChess.jar:/org/junit/internal/MethodSorter.class
+ 226/414: vChess.jar:/org/junit/internal/JUnitSystem.class
+ 227/414: vChess.jar:/org/junit/internal/runners/JUnit38ClassRunner$OldTestClassAdaptingListener.class
+ 228/414: vChess.jar:/org/junit/internal/runners/JUnit4ClassRunner$1.class
+ 229/414: vChess.jar:/org/junit/internal/runners/MethodRoadie$2.class
+ 230/414: vChess.jar:/org/junit/internal/runners/TestMethod.class
+ 231/414: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator.class
+ 232/414: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$MethodMustBeARule.class
+ 233/414: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$MemberMustBePublic.class
+ 234/414: vChess.jar:/org/junit/internal/runners/rules/ValidationError.class
+ 235/414: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$MemberMustBeStatic.class
+ 236/414: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$Builder.class
+ 237/414: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$MemberMustBeNonStaticOrAlsoClassRule.class
+ 238/414: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$FieldMustBeARule.class
+ 239/414: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$MethodMustBeATestRule.class
+ 240/414: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$RuleValidator.class
+ 241/414: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$1.class
+ 242/414: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$DeclaringClassMustBePublic.class
+ 243/414: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$FieldMustBeATestRule.class
+ 244/414: vChess.jar:/org/junit/internal/runners/MethodRoadie$1.class
+ 245/414: vChess.jar:/org/junit/internal/runners/TestClass.class
+ 246/414: vChess.jar:/org/junit/internal/runners/ErrorReportingRunner.class
+ 247/414: vChess.jar:/org/junit/internal/runners/JUnit4ClassRunner.class
+ 248/414: vChess.jar:/org/junit/internal/runners/FailedBefore.class
+ 249/414: vChess.jar:/org/junit/internal/runners/statements/FailOnTimeout$1.class
+ 250/414: vChess.jar:/org/junit/internal/runners/statements/Fail.class
+ 251/414: vChess.jar:/org/junit/internal/runners/statements/FailOnTimeout.class
+ 252/414: vChess.jar:/org/junit/internal/runners/statements/RunAfters.class
+ 253/414: vChess.jar:/org/junit/internal/runners/statements/RunBefores.class
+ 254/414: vChess.jar:/org/junit/internal/runners/statements/ExpectException.class
+ 255/414: vChess.jar:/org/junit/internal/runners/statements/InvokeMethod.class
+ 256/414: vChess.jar:/org/junit/internal/runners/statements/FailOnTimeout$Builder.class
+ 257/414: vChess.jar:/org/junit/internal/runners/statements/FailOnTimeout$CallableStatement.class
+ 258/414: vChess.jar:/org/junit/internal/runners/JUnit4ClassRunner$2.class
+ 259/414: vChess.jar:/org/junit/internal/runners/MethodValidator.class
+ 260/414: vChess.jar:/org/junit/internal/runners/JUnit38ClassRunner.class
+ 261/414: vChess.jar:/org/junit/internal/runners/SuiteMethod.class
+ 262/414: vChess.jar:/org/junit/internal/runners/MethodRoadie.class
+ 263/414: vChess.jar:/org/junit/internal/runners/InitializationError.class
+ 264/414: vChess.jar:/org/junit/internal/runners/ClassRoadie.class
+ 265/414: vChess.jar:/org/junit/internal/runners/JUnit38ClassRunner$1.class
+ 266/414: vChess.jar:/org/junit/internal/runners/MethodRoadie$1$1.class
+ 267/414: vChess.jar:/org/junit/internal/runners/model/ReflectiveCallable.class
+ 268/414: vChess.jar:/org/junit/internal/runners/model/EachTestNotifier.class
+ 269/414: vChess.jar:/org/junit/internal/runners/model/MultipleFailureException.class
+ 270/414: vChess.jar:/org/junit/internal/requests/FilterRequest.class
+ 271/414: vChess.jar:/org/junit/internal/requests/ClassRequest.class
+ 272/414: vChess.jar:/org/junit/internal/requests/SortingRequest.class
+ 273/414: vChess.jar:/org/junit/internal/AssumptionViolatedException.class
+ 274/414: vChess.jar:/org/junit/internal/RealSystem.class
+ 275/414: vChess.jar:/org/junit/internal/MethodSorter$2.class
+ 276/414: vChess.jar:/org/junit/internal/ComparisonCriteria.class
+ 277/414: vChess.jar:/org/junit/internal/Throwables.class
+ 278/414: vChess.jar:/org/junit/internal/MethodSorter$1.class
+ 279/414: vChess.jar:/org/junit/internal/Classes.class
+ 280/414: vChess.jar:/org/junit/internal/builders/IgnoredClassRunner.class
+ 281/414: vChess.jar:/org/junit/internal/builders/JUnit4Builder.class
+ 282/414: vChess.jar:/org/junit/internal/builders/AnnotatedBuilder.class
+ 283/414: vChess.jar:/org/junit/internal/builders/IgnoredBuilder.class
+ 284/414: vChess.jar:/org/junit/internal/builders/JUnit3Builder.class
+ 285/414: vChess.jar:/org/junit/internal/builders/AllDefaultPossibilitiesBuilder.class
+ 286/414: vChess.jar:/org/junit/internal/builders/NullBuilder.class
+ 287/414: vChess.jar:/org/junit/internal/builders/SuiteMethodBuilder.class
+ 288/414: vChess.jar:/org/junit/experimental/results/ResultMatchers$1.class
+ 289/414: vChess.jar:/org/junit/experimental/results/ResultMatchers$2.class
+ 290/414: vChess.jar:/org/junit/experimental/results/FailureList.class
+ 291/414: vChess.jar:/org/junit/experimental/results/ResultMatchers$3.class
+ 292/414: vChess.jar:/org/junit/experimental/results/ResultMatchers.class
+ 293/414: vChess.jar:/org/junit/experimental/results/PrintableResult.class
+ 294/414: vChess.jar:/org/junit/experimental/ParallelComputer$1.class
+ 295/414: vChess.jar:/org/junit/experimental/max/MaxHistory$RememberingListener.class
+ 296/414: vChess.jar:/org/junit/experimental/max/MaxCore.class
+ 297/414: vChess.jar:/org/junit/experimental/max/MaxHistory$1.class
+ 298/414: vChess.jar:/org/junit/experimental/max/MaxHistory$TestComparator.class
+ 299/414: vChess.jar:/org/junit/experimental/max/MaxCore$1.class
+ 300/414: vChess.jar:/org/junit/experimental/max/MaxCore$1$1.class
+ 301/414: vChess.jar:/org/junit/experimental/max/CouldNotReadCoreException.class
+ 302/414: vChess.jar:/org/junit/experimental/max/MaxHistory.class
+ 303/414: vChess.jar:/org/junit/experimental/ParallelComputer.class
+ 304/414: vChess.jar:/org/junit/experimental/theories/ParameterSignature.class
+ 305/414: vChess.jar:/org/junit/experimental/theories/Theories$TheoryAnchor$2.class
+ 306/414: vChess.jar:/org/junit/experimental/theories/Theories$TheoryAnchor.class
+ 307/414: vChess.jar:/org/junit/experimental/theories/Theory.class
+ 308/414: vChess.jar:/org/junit/experimental/theories/PotentialAssignment$1.class
+ 309/414: vChess.jar:/org/junit/experimental/theories/Theories$TheoryAnchor$1$1.class
+ 310/414: vChess.jar:/org/junit/experimental/theories/FromDataPoints.class
+ 311/414: vChess.jar:/org/junit/experimental/theories/DataPoints.class
+ 312/414: vChess.jar:/org/junit/experimental/theories/suppliers/TestedOnSupplier.class
+ 313/414: vChess.jar:/org/junit/experimental/theories/suppliers/TestedOn.class
+ 314/414: vChess.jar:/org/junit/experimental/theories/Theories$TheoryAnchor$1.class
+ 315/414: vChess.jar:/org/junit/experimental/theories/PotentialAssignment.class
+ 316/414: vChess.jar:/org/junit/experimental/theories/ParametersSuppliedBy.class
+ 317/414: vChess.jar:/org/junit/experimental/theories/Theories.class
+ 318/414: vChess.jar:/org/junit/experimental/theories/DataPoint.class
+ 319/414: vChess.jar:/org/junit/experimental/theories/internal/AllMembersSupplier$MethodParameterValue.class
+ 320/414: vChess.jar:/org/junit/experimental/theories/internal/AllMembersSupplier.class
+ 321/414: vChess.jar:/org/junit/experimental/theories/internal/EnumSupplier.class
+ 322/414: vChess.jar:/org/junit/experimental/theories/internal/Assignments.class
+ 323/414: vChess.jar:/org/junit/experimental/theories/internal/SpecificDataPointsSupplier.class
+ 324/414: vChess.jar:/org/junit/experimental/theories/internal/BooleanSupplier.class
+ 325/414: vChess.jar:/org/junit/experimental/theories/internal/AllMembersSupplier$1.class
+ 326/414: vChess.jar:/org/junit/experimental/theories/internal/ParameterizedAssertionError.class
+ 327/414: vChess.jar:/org/junit/experimental/theories/PotentialAssignment$CouldNotGenerateValueException.class
+ 328/414: vChess.jar:/org/junit/experimental/theories/ParameterSupplier.class
+ 329/414: vChess.jar:/org/junit/experimental/categories/ExcludeCategories$ExcludesAny.class
+ 330/414: vChess.jar:/org/junit/experimental/categories/IncludeCategories.class
+ 331/414: vChess.jar:/org/junit/experimental/categories/ExcludeCategories.class
+ 332/414: vChess.jar:/org/junit/experimental/categories/Categories$CategoryFilter.class
+ 333/414: vChess.jar:/org/junit/experimental/categories/Categories$ExcludeCategory.class
+ 334/414: vChess.jar:/org/junit/experimental/categories/CategoryValidator.class
+ 335/414: vChess.jar:/org/junit/experimental/categories/IncludeCategories$IncludesAny.class
+ 336/414: vChess.jar:/org/junit/experimental/categories/Category.class
+ 337/414: vChess.jar:/org/junit/experimental/categories/CategoryFilterFactory.class
+ 338/414: vChess.jar:/org/junit/experimental/categories/Categories.class
+ 339/414: vChess.jar:/org/junit/experimental/categories/Categories$IncludeCategory.class
+ 340/414: vChess.jar:/org/junit/experimental/runners/Enclosed.class
+ 341/414: vChess.jar:/org/junit/Rule.class
+ 342/414: vChess.jar:/junit/framework/TestCase.class
+ 343/414: vChess.jar:/junit/framework/TestResult.class
+ 344/414: vChess.jar:/junit/framework/TestFailure.class
+ 345/414: vChess.jar:/junit/framework/JUnit4TestAdapter.class
+ 346/414: vChess.jar:/junit/framework/TestResult$1.class
+ 347/414: vChess.jar:/junit/framework/TestSuite$1.class
+ 348/414: vChess.jar:/junit/framework/AssertionFailedError.class
+ 349/414: vChess.jar:/junit/framework/TestSuite.class
+ 350/414: vChess.jar:/junit/framework/ComparisonCompactor.class
+ 351/414: vChess.jar:/junit/framework/JUnit4TestAdapterCache.class
+ 352/414: vChess.jar:/junit/framework/Assert.class
+ 353/414: vChess.jar:/junit/framework/ComparisonFailure.class
+ 354/414: vChess.jar:/junit/framework/JUnit4TestCaseFacade.class
+ 355/414: vChess.jar:/junit/framework/TestListener.class
+ 356/414: vChess.jar:/junit/framework/Protectable.class
+ 357/414: vChess.jar:/junit/framework/JUnit4TestAdapterCache$1.class
+ 358/414: vChess.jar:/junit/framework/Test.class
+ 359/414: vChess.jar:/junit/runner/Version.class
+ 360/414: vChess.jar:/junit/runner/TestRunListener.class
+ 361/414: vChess.jar:/junit/runner/BaseTestRunner.class
+ 362/414: vChess.jar:/junit/extensions/TestDecorator.class
+ 363/414: vChess.jar:/junit/extensions/ActiveTestSuite$1.class
+ 364/414: vChess.jar:/junit/extensions/TestSetup.class
+ 365/414: vChess.jar:/junit/extensions/ActiveTestSuite.class
+ 366/414: vChess.jar:/junit/extensions/TestSetup$1.class
+ 367/414: vChess.jar:/junit/extensions/RepeatedTest.class
+ 368/414: vChess.jar:/junit/textui/TestRunner.class
+ 369/414: vChess.jar:/junit/textui/ResultPrinter.class
+ 370/414: vChess.jar:/org/hamcrest/BaseDescription.class
+ 371/414: vChess.jar:/org/hamcrest/BaseMatcher.class
+ 372/414: vChess.jar:/org/hamcrest/Condition$1.class
+ 373/414: vChess.jar:/org/hamcrest/Condition$Matched.class
+ 374/414: vChess.jar:/org/hamcrest/Condition$NotMatched.class
+ 375/414: vChess.jar:/org/hamcrest/Condition$Step.class
+ 376/414: vChess.jar:/org/hamcrest/Condition.class
+ 377/414: vChess.jar:/org/hamcrest/CoreMatchers.class
+ 378/414: vChess.jar:/org/hamcrest/CustomMatcher.class
+ 379/414: vChess.jar:/org/hamcrest/CustomTypeSafeMatcher.class
+ 380/414: vChess.jar:/org/hamcrest/Description$NullDescription.class
+ 381/414: vChess.jar:/org/hamcrest/Description.class
+ 382/414: vChess.jar:/org/hamcrest/DiagnosingMatcher.class
+ 383/414: vChess.jar:/org/hamcrest/Factory.class
+ 384/414: vChess.jar:/org/hamcrest/FeatureMatcher.class
+ 385/414: vChess.jar:/org/hamcrest/Matcher.class
+ 386/414: vChess.jar:/org/hamcrest/MatcherAssert.class
+ 387/414: vChess.jar:/org/hamcrest/SelfDescribing.class
+ 388/414: vChess.jar:/org/hamcrest/StringDescription.class
+ 389/414: vChess.jar:/org/hamcrest/TypeSafeDiagnosingMatcher.class
+ 390/414: vChess.jar:/org/hamcrest/TypeSafeMatcher.class
+ 391/414: vChess.jar:/org/hamcrest/core/AllOf.class
+ 392/414: vChess.jar:/org/hamcrest/core/AnyOf.class
+ 393/414: vChess.jar:/org/hamcrest/core/CombinableMatcher$CombinableBothMatcher.class
+ 394/414: vChess.jar:/org/hamcrest/core/CombinableMatcher$CombinableEitherMatcher.class
+ 395/414: vChess.jar:/org/hamcrest/core/CombinableMatcher.class
+ 396/414: vChess.jar:/org/hamcrest/core/DescribedAs.class
+ 397/414: vChess.jar:/org/hamcrest/core/Every.class
+ 398/414: vChess.jar:/org/hamcrest/core/Is.class
+ 399/414: vChess.jar:/org/hamcrest/core/IsAnything.class
+ 400/414: vChess.jar:/org/hamcrest/core/IsCollectionContaining.class
+ 401/414: vChess.jar:/org/hamcrest/core/IsEqual.class
+ 402/414: vChess.jar:/org/hamcrest/core/IsInstanceOf.class
+ 403/414: vChess.jar:/org/hamcrest/core/IsNot.class
+ 404/414: vChess.jar:/org/hamcrest/core/IsNull.class
+ 405/414: vChess.jar:/org/hamcrest/core/IsSame.class
+ 406/414: vChess.jar:/org/hamcrest/core/ShortcutCombination.class
+ 407/414: vChess.jar:/org/hamcrest/core/StringContains.class
+ 408/414: vChess.jar:/org/hamcrest/core/StringEndsWith.class
+ 409/414: vChess.jar:/org/hamcrest/core/StringStartsWith.class
+ 410/414: vChess.jar:/org/hamcrest/core/SubstringMatcher.class
+ 411/414: vChess.jar:/org/hamcrest/internal/ArrayIterator.class
+ 412/414: vChess.jar:/org/hamcrest/internal/ReflectiveTypeFinder.class
+ 413/414: vChess.jar:/org/hamcrest/internal/SelfDescribingValue.class
+ 414/414: vChess.jar:/org/hamcrest/internal/SelfDescribingValueIterator.class
+-------------------------------------------------------------------
+files: 414  errors: 0  warnings: 0  notices: 0
+
+------------------------  Codegen Stage  ---------------------------------------
+
+  0% done, 414/414 to go: vChess.jar:/org/hamcrest/internal/SelfDescribingValueIterator.class
+errors(0), warnings(0), notes(0); bytes(6301), time  0.67
+  0% done, 413/414 to go: vChess.jar:/org/hamcrest/internal/SelfDescribingValue.class
+errors(0), warnings(0), notes(0); bytes(4163), time  0.03
+  0% done, 412/414 to go: vChess.jar:/org/hamcrest/internal/ReflectiveTypeFinder.class
+errors(0), warnings(0), notes(0); bytes(8858), time  0.31
+  0% done, 411/414 to go: vChess.jar:/org/hamcrest/internal/ArrayIterator.class
+errors(0), warnings(0), notes(0); bytes(8098), time  0.12
+  0% done, 410/414 to go: vChess.jar:/org/hamcrest/core/SubstringMatcher.class
+errors(0), warnings(0), notes(0); bytes(6929), time  0.16
+  1% done, 409/414 to go: vChess.jar:/org/hamcrest/core/StringStartsWith.class
+errors(0), warnings(0), notes(0); bytes(6172), time  0.21
+  1% done, 408/414 to go: vChess.jar:/org/hamcrest/core/StringEndsWith.class
+errors(0), warnings(0), notes(0); bytes(6070), time  0.07
+  1% done, 407/414 to go: vChess.jar:/org/hamcrest/core/StringContains.class
+errors(0), warnings(0), notes(0); bytes(6153), time  0.08
+  1% done, 406/414 to go: vChess.jar:/org/hamcrest/core/ShortcutCombination.class
+errors(0), warnings(0), notes(0); bytes(6425), time  0.11
+  2% done, 405/414 to go: vChess.jar:/org/hamcrest/core/IsSame.class
+errors(0), warnings(0), notes(0); bytes(5959), time  0.19
+  2% done, 404/414 to go: vChess.jar:/org/hamcrest/core/IsNull.class
+errors(0), warnings(0), notes(0); bytes(7152), time  0.14
+  2% done, 403/414 to go: vChess.jar:/org/hamcrest/core/IsNot.class
+errors(0), warnings(0), notes(0); bytes(6475), time  0.10
+  2% done, 402/414 to go: vChess.jar:/org/hamcrest/core/IsInstanceOf.class
+errors(0), warnings(0), notes(0); bytes(12649), time  0.42
+  3% done, 401/414 to go: vChess.jar:/org/hamcrest/core/IsEqual.class
+errors(0), warnings(0), notes(0); bytes(8686), time  0.22
+  3% done, 400/414 to go: vChess.jar:/org/hamcrest/core/IsCollectionContaining.class
+errors(0), warnings(0), notes(0); bytes(12510), time  0.43
+  3% done, 399/414 to go: vChess.jar:/org/hamcrest/core/IsAnything.class
+errors(0), warnings(0), notes(0); bytes(6353), time  0.20
+  3% done, 398/414 to go: vChess.jar:/org/hamcrest/core/Is.class
+errors(0), warnings(0), notes(0); bytes(8135), time  0.53
+  4% done, 397/414 to go: vChess.jar:/org/hamcrest/core/Every.class
+errors(0), warnings(0), notes(0); bytes(8100), time  0.48
+  4% done, 396/414 to go: vChess.jar:/org/hamcrest/core/DescribedAs.class
+errors(0), warnings(0), notes(0); bytes(10349), time  0.54
+  4% done, 395/414 to go: vChess.jar:/org/hamcrest/core/CombinableMatcher.class
+errors(0), warnings(0), notes(0); bytes(9700), time  0.57
+  4% done, 394/414 to go: vChess.jar:/org/hamcrest/core/CombinableMatcher$CombinableEitherMatcher.class
+errors(0), warnings(0), notes(0); bytes(4485), time  0.04
+  5% done, 393/414 to go: vChess.jar:/org/hamcrest/core/CombinableMatcher$CombinableBothMatcher.class
+errors(0), warnings(0), notes(0); bytes(4464), time  0.03
+  5% done, 392/414 to go: vChess.jar:/org/hamcrest/core/AnyOf.class
+errors(0), warnings(0), notes(0); bytes(13840), time  0.67
+  5% done, 391/414 to go: vChess.jar:/org/hamcrest/core/AllOf.class
+errors(0), warnings(0), notes(0); bytes(14519), time  0.74
+  5% done, 390/414 to go: vChess.jar:/org/hamcrest/TypeSafeMatcher.class
+errors(0), warnings(0), notes(0); bytes(8216), time  0.51
+  6% done, 389/414 to go: vChess.jar:/org/hamcrest/TypeSafeDiagnosingMatcher.class
+errors(0), warnings(0), notes(0); bytes(7260), time  0.49
+  6% done, 388/414 to go: vChess.jar:/org/hamcrest/StringDescription.class
+errors(0), warnings(0), notes(0); bytes(9082), time  0.53
+  6% done, 387/414 to go: vChess.jar:/org/hamcrest/SelfDescribing.class
+errors(0), warnings(0), notes(0); bytes(1957), time  0.00
+  6% done, 386/414 to go: vChess.jar:/org/hamcrest/MatcherAssert.class
+errors(0), warnings(0), notes(0); bytes(6828), time  0.47
+  7% done, 385/414 to go: vChess.jar:/org/hamcrest/Matcher.class
+errors(0), warnings(0), notes(0); bytes(2534), time  0.00
+  7% done, 384/414 to go: vChess.jar:/org/hamcrest/FeatureMatcher.class
+errors(0), warnings(0), notes(0); bytes(6292), time  0.49
+  7% done, 383/414 to go: vChess.jar:/org/hamcrest/Factory.class
+errors(0), warnings(0), notes(0); bytes(2268), time  0.00
+  7% done, 382/414 to go: vChess.jar:/org/hamcrest/DiagnosingMatcher.class
+errors(0), warnings(0), notes(0); bytes(3754), time  0.05
+  7% done, 381/414 to go: vChess.jar:/org/hamcrest/Description.class
+errors(0), warnings(0), notes(0); bytes(3508), time  0.02
+  8% done, 380/414 to go: vChess.jar:/org/hamcrest/Description$NullDescription.class
+errors(0), warnings(0), notes(0); bytes(6516), time  0.41
+  8% done, 379/414 to go: vChess.jar:/org/hamcrest/CustomTypeSafeMatcher.class
+errors(0), warnings(0), notes(0); bytes(4021), time  0.06
+  8% done, 378/414 to go: vChess.jar:/org/hamcrest/CustomMatcher.class
+errors(0), warnings(0), notes(0); bytes(3758), time  0.04
+  8% done, 377/414 to go: vChess.jar:/org/hamcrest/CoreMatchers.class
+errors(0), warnings(0), notes(0); bytes(31958), time  1.16
+  9% done, 376/414 to go: vChess.jar:/org/hamcrest/Condition.class
+errors(0), warnings(0), notes(0); bytes(6154), time  0.16
+  9% done, 375/414 to go: vChess.jar:/org/hamcrest/Condition$Step.class
+errors(0), warnings(0), notes(0); bytes(1968), time  0.00
+  9% done, 374/414 to go: vChess.jar:/org/hamcrest/Condition$NotMatched.class
+errors(0), warnings(0), notes(0); bytes(4826), time  0.11
+  9% done, 373/414 to go: vChess.jar:/org/hamcrest/Condition$Matched.class
+errors(0), warnings(0), notes(0); bytes(6036), time  0.06
+ 10% done, 372/414 to go: vChess.jar:/org/hamcrest/Condition$1.class
+errors(0), warnings(0), notes(0); bytes(2601), time  0.01
+ 10% done, 371/414 to go: vChess.jar:/org/hamcrest/BaseMatcher.class
+errors(0), warnings(0), notes(0); bytes(4535), time  0.03
+ 10% done, 370/414 to go: vChess.jar:/org/hamcrest/BaseDescription.class
+errors(0), warnings(0), notes(0); bytes(17077), time  0.71
+ 10% done, 369/414 to go: vChess.jar:/junit/textui/ResultPrinter.class
+errors(0), warnings(0), notes(0); bytes(17237), time  1.24
+ 11% done, 368/414 to go: vChess.jar:/junit/textui/TestRunner.class
+errors(0), warnings(0), notes(0); bytes(19626), time  1.33
+ 11% done, 367/414 to go: vChess.jar:/junit/extensions/RepeatedTest.class
+errors(0), warnings(0), notes(0); bytes(6570), time  0.21
+ 11% done, 366/414 to go: vChess.jar:/junit/extensions/TestSetup$1.class
+errors(0), warnings(0), notes(0); bytes(4163), time  0.06
+ 11% done, 365/414 to go: vChess.jar:/junit/extensions/ActiveTestSuite.class
+errors(0), warnings(0), notes(0); bytes(9558), time  0.33
+ 12% done, 364/414 to go: vChess.jar:/junit/extensions/TestSetup.class
+errors(0), warnings(0), notes(0); bytes(4406), time  0.05
+ 12% done, 363/414 to go: vChess.jar:/junit/extensions/ActiveTestSuite$1.class
+errors(0), warnings(0), notes(0); bytes(6993), time  0.05
+ 12% done, 362/414 to go: vChess.jar:/junit/extensions/TestDecorator.class
+errors(0), warnings(0), notes(0); bytes(5318), time  0.05
+ 12% done, 361/414 to go: vChess.jar:/junit/runner/BaseTestRunner.class
+errors(0), warnings(0), notes(0); bytes(33613), time  1.44
+ 13% done, 360/414 to go: vChess.jar:/junit/runner/TestRunListener.class
+errors(0), warnings(0), notes(0); bytes(3091), time  0.01
+ 13% done, 359/414 to go: vChess.jar:/junit/runner/Version.class
+errors(0), warnings(0), notes(0); bytes(4255), time  0.04
+ 13% done, 358/414 to go: vChess.jar:/junit/framework/Test.class
+errors(0), warnings(0), notes(0); bytes(2175), time  0.00
+ 13% done, 357/414 to go: vChess.jar:/junit/framework/JUnit4TestAdapterCache$1.class
+errors(0), warnings(0), notes(0); bytes(5671), time  0.31
+ 14% done, 356/414 to go: vChess.jar:/junit/framework/Protectable.class
+errors(0), warnings(0), notes(0); bytes(2070), time  0.01
+ 14% done, 355/414 to go: vChess.jar:/junit/framework/TestListener.class
+errors(0), warnings(0), notes(0); bytes(2386), time  0.00
+ 14% done, 354/414 to go: vChess.jar:/junit/framework/JUnit4TestCaseFacade.class
+errors(0), warnings(0), notes(0); bytes(5532), time  0.08
+ 14% done, 353/414 to go: vChess.jar:/junit/framework/ComparisonFailure.class
+errors(0), warnings(0), notes(0); bytes(8076), time  0.31
+ 14% done, 352/414 to go: vChess.jar:/junit/framework/Assert.class
+errors(0), warnings(0), notes(0); bytes(27708), time  1.03
+ 15% done, 351/414 to go: vChess.jar:/junit/framework/JUnit4TestAdapterCache.class
+errors(0), warnings(0), notes(0); bytes(14636), time  0.42
+ 15% done, 350/414 to go: vChess.jar:/junit/framework/ComparisonCompactor.class
+errors(0), warnings(0), notes(0); bytes(10984), time  0.34
+ 15% done, 349/414 to go: vChess.jar:/junit/framework/TestSuite.class
+errors(0), warnings(0), notes(0); bytes(29047), time  1.07
+ 15% done, 348/414 to go: vChess.jar:/junit/framework/AssertionFailedError.class
+errors(0), warnings(0), notes(0); bytes(8199), time  0.04
+ 16% done, 347/414 to go: vChess.jar:/junit/framework/TestSuite$1.class
+errors(0), warnings(0), notes(0); bytes(4243), time  0.03
+ 16% done, 346/414 to go: vChess.jar:/junit/framework/TestResult$1.class
+errors(0), warnings(0), notes(0); bytes(4060), time  0.12
+ 16% done, 345/414 to go: vChess.jar:/junit/framework/JUnit4TestAdapter.class
+errors(0), warnings(0), notes(0); bytes(11182), time  0.48
+ 16% done, 344/414 to go: vChess.jar:/junit/framework/TestFailure.class
+errors(0), warnings(0), notes(0); bytes(8161), time  0.15
+ 17% done, 343/414 to go: vChess.jar:/junit/framework/TestResult.class
+errors(0), warnings(0), notes(0); bytes(18646), time  1.14
+ 17% done, 342/414 to go: vChess.jar:/junit/framework/TestCase.class
+errors(0), warnings(0), notes(0); bytes(30501), time  0.99
+ 17% done, 341/414 to go: vChess.jar:/org/junit/Rule.class
+errors(0), warnings(0), notes(0); bytes(2285), time  0.00
+ 17% done, 340/414 to go: vChess.jar:/org/junit/experimental/runners/Enclosed.class
+errors(0), warnings(0), notes(0); bytes(8761), time  0.16
+ 18% done, 339/414 to go: vChess.jar:/org/junit/experimental/categories/Categories$IncludeCategory.class
+errors(0), warnings(0), notes(0); bytes(3090), time  0.00
+ 18% done, 338/414 to go: vChess.jar:/org/junit/experimental/categories/Categories.class
+errors(0), warnings(0), notes(0); bytes(17562), time  0.94
+ 18% done, 337/414 to go: vChess.jar:/org/junit/experimental/categories/CategoryFilterFactory.class
+errors(0), warnings(0), notes(0); bytes(6253), time  0.12
+ 18% done, 336/414 to go: vChess.jar:/org/junit/experimental/categories/Category.class
+errors(0), warnings(0), notes(0); bytes(2759), time  0.00
+ 19% done, 335/414 to go: vChess.jar:/org/junit/experimental/categories/IncludeCategories$IncludesAny.class
+errors(0), warnings(0), notes(0); bytes(7620), time  0.10
+ 19% done, 334/414 to go: vChess.jar:/org/junit/experimental/categories/CategoryValidator.class
+errors(0), warnings(0), notes(0); bytes(11058), time  0.27
+ 19% done, 333/414 to go: vChess.jar:/org/junit/experimental/categories/Categories$ExcludeCategory.class
+errors(0), warnings(0), notes(0); bytes(3090), time  0.00
+ 19% done, 332/414 to go: vChess.jar:/org/junit/experimental/categories/Categories$CategoryFilter.class
+errors(0), warnings(0), notes(0); bytes(22980), time  0.82
+ 20% done, 331/414 to go: vChess.jar:/org/junit/experimental/categories/ExcludeCategories.class
+errors(0), warnings(0), notes(0); bytes(4656), time  0.04
+ 20% done, 330/414 to go: vChess.jar:/org/junit/experimental/categories/IncludeCategories.class
+errors(0), warnings(0), notes(0); bytes(4656), time  0.02
+ 20% done, 329/414 to go: vChess.jar:/org/junit/experimental/categories/ExcludeCategories$ExcludesAny.class
+errors(0), warnings(0), notes(0); bytes(7619), time  0.06
+ 20% done, 328/414 to go: vChess.jar:/org/junit/experimental/theories/ParameterSupplier.class
+errors(0), warnings(0), notes(0); bytes(3116), time  0.01
+ 21% done, 327/414 to go: vChess.jar:/org/junit/experimental/theories/PotentialAssignment$CouldNotGenerateValueException.class
+errors(0), warnings(0), notes(0); bytes(8631), time  0.03
+ 21% done, 326/414 to go: vChess.jar:/org/junit/experimental/theories/internal/ParameterizedAssertionError.class
+errors(0), warnings(0), notes(0); bytes(13968), time  0.24
+ 21% done, 325/414 to go: vChess.jar:/org/junit/experimental/theories/internal/AllMembersSupplier$1.class
+errors(0), warnings(0), notes(0); bytes(3120), time  0.01
+ 21% done, 324/414 to go: vChess.jar:/org/junit/experimental/theories/internal/BooleanSupplier.class
+errors(0), warnings(0), notes(0); bytes(5270), time  0.14
+ 21% done, 323/414 to go: vChess.jar:/org/junit/experimental/theories/internal/SpecificDataPointsSupplier.class
+errors(0), warnings(0), notes(0); bytes(12455), time  0.53
+ 22% done, 322/414 to go: vChess.jar:/org/junit/experimental/theories/internal/Assignments.class
+errors(0), warnings(0), notes(0); bytes(19371), time  0.81
+ 22% done, 321/414 to go: vChess.jar:/org/junit/experimental/theories/internal/EnumSupplier.class
+errors(0), warnings(0), notes(0); bytes(5841), time  0.13
+ 22% done, 320/414 to go: vChess.jar:/org/junit/experimental/theories/internal/AllMembersSupplier.class
+errors(0), warnings(0), notes(0); bytes(26058), time  1.76
+ 22% done, 319/414 to go: vChess.jar:/org/junit/experimental/theories/internal/AllMembersSupplier$MethodParameterValue.class
+errors(0), warnings(0), notes(0); bytes(8902), time  0.26
+ 23% done, 318/414 to go: vChess.jar:/org/junit/experimental/theories/DataPoint.class
+errors(0), warnings(0), notes(0); bytes(2917), time  0.00
+ 23% done, 317/414 to go: vChess.jar:/org/junit/experimental/theories/Theories.class
+errors(0), warnings(0), notes(0); bytes(21808), time  1.14
+ 23% done, 316/414 to go: vChess.jar:/org/junit/experimental/theories/ParametersSuppliedBy.class
+errors(0), warnings(0), notes(0); bytes(2920), time  0.00
+ 23% done, 315/414 to go: vChess.jar:/org/junit/experimental/theories/PotentialAssignment.class
+errors(0), warnings(0), notes(0); bytes(3404), time  0.02
+ 24% done, 314/414 to go: vChess.jar:/org/junit/experimental/theories/Theories$TheoryAnchor$1.class
+errors(0), warnings(0), notes(0); bytes(10982), time  0.25
+ 24% done, 313/414 to go: vChess.jar:/org/junit/experimental/theories/suppliers/TestedOn.class
+errors(0), warnings(0), notes(0); bytes(3222), time  0.00
+ 24% done, 312/414 to go: vChess.jar:/org/junit/experimental/theories/suppliers/TestedOnSupplier.class
+errors(0), warnings(0), notes(0); bytes(6000), time  0.17
+ 24% done, 311/414 to go: vChess.jar:/org/junit/experimental/theories/DataPoints.class
+errors(0), warnings(0), notes(0); bytes(2927), time  0.00
+ 25% done, 310/414 to go: vChess.jar:/org/junit/experimental/theories/FromDataPoints.class
+errors(0), warnings(0), notes(0); bytes(2858), time  0.00
+ 25% done, 309/414 to go: vChess.jar:/org/junit/experimental/theories/Theories$TheoryAnchor$1$1.class
+errors(0), warnings(0), notes(0); bytes(4993), time  0.11
+ 25% done, 308/414 to go: vChess.jar:/org/junit/experimental/theories/PotentialAssignment$1.class
+errors(0), warnings(0), notes(0); bytes(6545), time  0.10
+ 25% done, 307/414 to go: vChess.jar:/org/junit/experimental/theories/Theory.class
+errors(0), warnings(0), notes(0); bytes(2824), time  0.00
+ 26% done, 306/414 to go: vChess.jar:/org/junit/experimental/theories/Theories$TheoryAnchor.class
+errors(0), warnings(0), notes(0); bytes(15048), time  0.47
+ 26% done, 305/414 to go: vChess.jar:/org/junit/experimental/theories/Theories$TheoryAnchor$2.class
+errors(0), warnings(0), notes(0); bytes(5162), time  0.04
+ 26% done, 304/414 to go: vChess.jar:/org/junit/experimental/theories/ParameterSignature.class
+errors(0), warnings(0), notes(0); bytes(24575), time  0.66
+ 26% done, 303/414 to go: vChess.jar:/org/junit/experimental/ParallelComputer.class
+errors(0), warnings(0), notes(0); bytes(6926), time  0.18
+ 27% done, 302/414 to go: vChess.jar:/org/junit/experimental/max/MaxHistory.class
+errors(0), warnings(0), notes(0); bytes(15835), time  0.48
+ 27% done, 301/414 to go: vChess.jar:/org/junit/experimental/max/CouldNotReadCoreException.class
+errors(0), warnings(0), notes(0); bytes(6949), time  0.01
+ 27% done, 300/414 to go: vChess.jar:/org/junit/experimental/max/MaxCore$1$1.class
+errors(0), warnings(0), notes(0); bytes(5989), time  0.03
+ 27% done, 299/414 to go: vChess.jar:/org/junit/experimental/max/MaxCore$1.class
+errors(0), warnings(0), notes(0); bytes(4994), time  0.19
+ 28% done, 298/414 to go: vChess.jar:/org/junit/experimental/max/MaxHistory$TestComparator.class
+errors(0), warnings(0), notes(0); bytes(7674), time  0.11
+ 28% done, 297/414 to go: vChess.jar:/org/junit/experimental/max/MaxHistory$1.class
+errors(0), warnings(0), notes(0); bytes(2822), time  0.00
+ 28% done, 296/414 to go: vChess.jar:/org/junit/experimental/max/MaxCore.class
+errors(0), warnings(0), notes(0); bytes(19079), time  0.85
+ 28% done, 295/414 to go: vChess.jar:/org/junit/experimental/max/MaxHistory$RememberingListener.class
+errors(0), warnings(0), notes(0); bytes(9653), time  0.12
+ 28% done, 294/414 to go: vChess.jar:/org/junit/experimental/ParallelComputer$1.class
+errors(0), warnings(0), notes(0); bytes(6744), time  0.08
+ 29% done, 293/414 to go: vChess.jar:/org/junit/experimental/results/PrintableResult.class
+errors(0), warnings(0), notes(0); bytes(8935), time  0.25
+ 29% done, 292/414 to go: vChess.jar:/org/junit/experimental/results/ResultMatchers.class
+errors(0), warnings(0), notes(0); bytes(5980), time  0.10
+ 29% done, 291/414 to go: vChess.jar:/org/junit/experimental/results/ResultMatchers$3.class
+errors(0), warnings(0), notes(0); bytes(6785), time  0.06
+ 29% done, 290/414 to go: vChess.jar:/org/junit/experimental/results/FailureList.class
+errors(0), warnings(0), notes(0); bytes(5836), time  0.06
+ 30% done, 289/414 to go: vChess.jar:/org/junit/experimental/results/ResultMatchers$2.class
+errors(0), warnings(0), notes(0); bytes(7021), time  0.16
+ 30% done, 288/414 to go: vChess.jar:/org/junit/experimental/results/ResultMatchers$1.class
+errors(0), warnings(0), notes(0); bytes(8127), time  0.09
+ 30% done, 287/414 to go: vChess.jar:/org/junit/internal/builders/SuiteMethodBuilder.class
+errors(0), warnings(0), notes(0); bytes(6161), time  0.11
+ 30% done, 286/414 to go: vChess.jar:/org/junit/internal/builders/NullBuilder.class
+errors(0), warnings(0), notes(0); bytes(4515), time  0.02
+ 31% done, 285/414 to go: vChess.jar:/org/junit/internal/builders/AllDefaultPossibilitiesBuilder.class
+errors(0), warnings(0), notes(0); bytes(9237), time  0.28
+ 31% done, 284/414 to go: vChess.jar:/org/junit/internal/builders/JUnit3Builder.class
+errors(0), warnings(0), notes(0); bytes(6061), time  0.06
+ 31% done, 283/414 to go: vChess.jar:/org/junit/internal/builders/IgnoredBuilder.class
+errors(0), warnings(0), notes(0); bytes(4931), time  0.04
+ 31% done, 282/414 to go: vChess.jar:/org/junit/internal/builders/AnnotatedBuilder.class
+errors(0), warnings(0), notes(0); bytes(10329), time  0.20
+ 32% done, 281/414 to go: vChess.jar:/org/junit/internal/builders/JUnit4Builder.class
+errors(0), warnings(0), notes(0); bytes(4816), time  0.11
+ 32% done, 280/414 to go: vChess.jar:/org/junit/internal/builders/IgnoredClassRunner.class
+errors(0), warnings(0), notes(0); bytes(4728), time  0.13
+ 32% done, 279/414 to go: vChess.jar:/org/junit/internal/Classes.class
+errors(0), warnings(0), notes(0); bytes(4299), time  0.04
+ 32% done, 278/414 to go: vChess.jar:/org/junit/internal/MethodSorter$1.class
+errors(0), warnings(0), notes(0); bytes(5594), time  0.08
+ 33% done, 277/414 to go: vChess.jar:/org/junit/internal/Throwables.class
+errors(0), warnings(0), notes(0); bytes(4201), time  0.04
+ 33% done, 276/414 to go: vChess.jar:/org/junit/internal/ComparisonCriteria.class
+errors(0), warnings(0), notes(0); bytes(9250), time  0.34
+ 33% done, 275/414 to go: vChess.jar:/org/junit/internal/MethodSorter$2.class
+errors(0), warnings(0), notes(0); bytes(5591), time  0.07
+ 33% done, 274/414 to go: vChess.jar:/org/junit/internal/RealSystem.class
+errors(0), warnings(0), notes(0); bytes(4760), time  0.04
+ 34% done, 273/414 to go: vChess.jar:/org/junit/internal/AssumptionViolatedException.class
+errors(0), warnings(0), notes(0); bytes(13096), time  0.27
+ 34% done, 272/414 to go: vChess.jar:/org/junit/internal/requests/SortingRequest.class
+errors(0), warnings(0), notes(0); bytes(4642), time  0.06
+ 34% done, 271/414 to go: vChess.jar:/org/junit/internal/requests/ClassRequest.class
+errors(0), warnings(0), notes(0); bytes(6417), time  0.12
+ 34% done, 270/414 to go: vChess.jar:/org/junit/internal/requests/FilterRequest.class
+errors(0), warnings(0), notes(0); bytes(5739), time  0.07
+ 35% done, 269/414 to go: vChess.jar:/org/junit/internal/runners/model/MultipleFailureException.class
+errors(0), warnings(0), notes(0); bytes(7183), time  0.02
+ 35% done, 268/414 to go: vChess.jar:/org/junit/internal/runners/model/EachTestNotifier.class
+errors(0), warnings(0), notes(0); bytes(7693), time  0.33
+ 35% done, 267/414 to go: vChess.jar:/org/junit/internal/runners/model/ReflectiveCallable.class
+errors(0), warnings(0), notes(0); bytes(3553), time  0.03
+ 35% done, 266/414 to go: vChess.jar:/org/junit/internal/runners/MethodRoadie$1$1.class
+errors(0), warnings(0), notes(0); bytes(4470), time  0.08
+ 35% done, 265/414 to go: vChess.jar:/org/junit/internal/runners/JUnit38ClassRunner$1.class
+errors(0), warnings(0), notes(0); bytes(2910), time  0.00
+ 36% done, 264/414 to go: vChess.jar:/org/junit/internal/runners/ClassRoadie.class
+errors(0), warnings(0), notes(0); bytes(8960), time  0.40
+ 36% done, 263/414 to go: vChess.jar:/org/junit/internal/runners/InitializationError.class
+errors(0), warnings(0), notes(0); bytes(9658), time  0.08
+ 36% done, 262/414 to go: vChess.jar:/org/junit/internal/runners/MethodRoadie.class
+errors(0), warnings(0), notes(0); bytes(15354), time  0.73
+ 36% done, 261/414 to go: vChess.jar:/org/junit/internal/runners/SuiteMethod.class
+errors(0), warnings(0), notes(0); bytes(8395), time  0.08
+ 37% done, 260/414 to go: vChess.jar:/org/junit/internal/runners/JUnit38ClassRunner.class
+errors(0), warnings(0), notes(0); bytes(15635), time  0.75
+ 37% done, 259/414 to go: vChess.jar:/org/junit/internal/runners/MethodValidator.class
+errors(0), warnings(0), notes(0); bytes(15560), time  0.72
+ 37% done, 258/414 to go: vChess.jar:/org/junit/internal/runners/JUnit4ClassRunner$2.class
+errors(0), warnings(0), notes(0); bytes(5738), time  0.09
+ 37% done, 257/414 to go: vChess.jar:/org/junit/internal/runners/statements/FailOnTimeout$CallableStatement.class
+errors(0), warnings(0), notes(0); bytes(8335), time  0.19
+ 38% done, 256/414 to go: vChess.jar:/org/junit/internal/runners/statements/FailOnTimeout$Builder.class
+errors(0), warnings(0), notes(0); bytes(10052), time  0.17
+ 38% done, 255/414 to go: vChess.jar:/org/junit/internal/runners/statements/InvokeMethod.class
+errors(0), warnings(0), notes(0); bytes(4349), time  0.03
+ 38% done, 254/414 to go: vChess.jar:/org/junit/internal/runners/statements/ExpectException.class
+errors(0), warnings(0), notes(0); bytes(8229), time  0.12
+ 38% done, 253/414 to go: vChess.jar:/org/junit/internal/runners/statements/RunBefores.class
+errors(0), warnings(0), notes(0); bytes(5371), time  0.06
+ 39% done, 252/414 to go: vChess.jar:/org/junit/internal/runners/statements/RunAfters.class
+errors(0), warnings(0), notes(0); bytes(7119), time  0.30
+ 39% done, 251/414 to go: vChess.jar:/org/junit/internal/runners/statements/FailOnTimeout.class
+errors(0), warnings(0), notes(0); bytes(22234), time  0.70
+ 39% done, 250/414 to go: vChess.jar:/org/junit/internal/runners/statements/Fail.class
+errors(0), warnings(0), notes(0); bytes(3864), time  0.02
+ 39% done, 249/414 to go: vChess.jar:/org/junit/internal/runners/statements/FailOnTimeout$1.class
+errors(0), warnings(0), notes(0); bytes(3020), time  0.00
+ 40% done, 248/414 to go: vChess.jar:/org/junit/internal/runners/FailedBefore.class
+errors(0), warnings(0), notes(0); bytes(6764), time  0.02
+ 40% done, 247/414 to go: vChess.jar:/org/junit/internal/runners/JUnit4ClassRunner.class
+errors(0), warnings(0), notes(0); bytes(18259), time  0.67
+ 40% done, 246/414 to go: vChess.jar:/org/junit/internal/runners/ErrorReportingRunner.class
+errors(0), warnings(0), notes(0); bytes(9592), time  0.32
+ 40% done, 245/414 to go: vChess.jar:/org/junit/internal/runners/TestClass.class
+errors(0), warnings(0), notes(0); bytes(14189), time  0.37
+ 41% done, 244/414 to go: vChess.jar:/org/junit/internal/runners/MethodRoadie$1.class
+errors(0), warnings(0), notes(0); bytes(7159), time  0.11
+ 41% done, 243/414 to go: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$FieldMustBeATestRule.class
+errors(0), warnings(0), notes(0); bytes(6450), time  0.08
+ 41% done, 242/414 to go: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$DeclaringClassMustBePublic.class
+errors(0), warnings(0), notes(0); bytes(8054), time  0.15
+ 41% done, 241/414 to go: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$1.class
+errors(0), warnings(0), notes(0); bytes(3011), time  0.00
+ 42% done, 240/414 to go: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$RuleValidator.class
+errors(0), warnings(0), notes(0); bytes(2972), time  0.00
+ 42% done, 239/414 to go: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$MethodMustBeATestRule.class
+errors(0), warnings(0), notes(0); bytes(6507), time  0.04
+ 42% done, 238/414 to go: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$FieldMustBeARule.class
+errors(0), warnings(0), notes(0); bytes(6394), time  0.07
+ 42% done, 237/414 to go: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$MemberMustBeNonStaticOrAlsoClassRule.class
+errors(0), warnings(0), notes(0); bytes(7151), time  0.08
+ 42% done, 236/414 to go: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$Builder.class
+errors(0), warnings(0), notes(0); bytes(8973), time  0.12
+ 43% done, 235/414 to go: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$MemberMustBeStatic.class
+errors(0), warnings(0), notes(0); bytes(6325), time  0.05
+ 43% done, 234/414 to go: vChess.jar:/org/junit/internal/runners/rules/ValidationError.class
+errors(0), warnings(0), notes(0); bytes(7703), time  0.03
+ 43% done, 233/414 to go: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$MemberMustBePublic.class
+errors(0), warnings(0), notes(0); bytes(6325), time  0.13
+ 43% done, 232/414 to go: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator$MethodMustBeARule.class
+errors(0), warnings(0), notes(0); bytes(6451), time  0.05
+ 44% done, 231/414 to go: vChess.jar:/org/junit/internal/runners/rules/RuleMemberValidator.class
+errors(0), warnings(0), notes(0); bytes(15494), time  0.54
+ 44% done, 230/414 to go: vChess.jar:/org/junit/internal/runners/TestMethod.class
+errors(0), warnings(0), notes(0); bytes(10620), time  0.16
+ 44% done, 229/414 to go: vChess.jar:/org/junit/internal/runners/MethodRoadie$2.class
+errors(0), warnings(0), notes(0); bytes(4072), time  0.02
+ 44% done, 228/414 to go: vChess.jar:/org/junit/internal/runners/JUnit4ClassRunner$1.class
+errors(0), warnings(0), notes(0); bytes(4334), time  0.02
+ 45% done, 227/414 to go: vChess.jar:/org/junit/internal/runners/JUnit38ClassRunner$OldTestClassAdaptingListener.class
+errors(0), warnings(0), notes(0); bytes(10275), time  0.26
+ 45% done, 226/414 to go: vChess.jar:/org/junit/internal/JUnitSystem.class
+errors(0), warnings(0), notes(0); bytes(2446), time  0.01
+ 45% done, 225/414 to go: vChess.jar:/org/junit/internal/MethodSorter.class
+errors(0), warnings(0), notes(0); bytes(7057), time  0.10
+ 45% done, 224/414 to go: vChess.jar:/org/junit/internal/TextListener.class
+errors(0), warnings(0), notes(0); bytes(13963), time  0.59
+ 46% done, 223/414 to go: vChess.jar:/org/junit/internal/InexactComparisonCriteria.class
+errors(0), warnings(0), notes(0); bytes(6319), time  0.17
+ 46% done, 222/414 to go: vChess.jar:/org/junit/internal/ArrayComparisonFailure.class
+errors(0), warnings(0), notes(0); bytes(11527), time  0.14
+ 46% done, 221/414 to go: vChess.jar:/org/junit/internal/matchers/ThrowableCauseMatcher.class
+errors(0), warnings(0), notes(0); bytes(9222), time  0.25
+ 46% done, 220/414 to go: vChess.jar:/org/junit/internal/matchers/StacktracePrintingMatcher.class
+errors(0), warnings(0), notes(0); bytes(11285), time  0.21
+ 47% done, 219/414 to go: vChess.jar:/org/junit/internal/matchers/TypeSafeMatcher.class
+errors(0), warnings(0), notes(0); bytes(8372), time  0.27
+ 47% done, 218/414 to go: vChess.jar:/org/junit/internal/matchers/ThrowableMessageMatcher.class
+errors(0), warnings(0), notes(0); bytes(9269), time  0.15
+ 47% done, 217/414 to go: vChess.jar:/org/junit/internal/ExactComparisonCriteria.class
+errors(0), warnings(0), notes(0); bytes(3932), time  0.08
+ 47% done, 216/414 to go: vChess.jar:/org/junit/ComparisonFailure$ComparisonCompactor.class
+errors(0), warnings(0), notes(0); bytes(11566), time  0.43
+ 48% done, 215/414 to go: vChess.jar:/org/junit/FixMethodOrder.class
+errors(0), warnings(0), notes(0); bytes(2490), time  0.00
+ 48% done, 214/414 to go: vChess.jar:/org/junit/AfterClass.class
+errors(0), warnings(0), notes(0); bytes(2256), time  0.00
+ 48% done, 213/414 to go: vChess.jar:/org/junit/Test.class
+errors(0), warnings(0), notes(0); bytes(2734), time  0.01
+ 48% done, 212/414 to go: vChess.jar:/org/junit/Before.class
+errors(0), warnings(0), notes(0); bytes(2216), time  0.00
+ 49% done, 211/414 to go: vChess.jar:/org/junit/BeforeClass.class
+errors(0), warnings(0), notes(0); bytes(2266), time  0.00
+ 49% done, 210/414 to go: vChess.jar:/org/junit/Ignore.class
+errors(0), warnings(0), notes(0); bytes(2364), time  0.01
+ 49% done, 209/414 to go: vChess.jar:/org/junit/ComparisonFailure$1.class
+errors(0), warnings(0), notes(0); bytes(2644), time  0.00
+ 49% done, 208/414 to go: vChess.jar:/org/junit/validator/PublicClassValidator.class
+errors(0), warnings(0), notes(0); bytes(6959), time  0.12
+ 50% done, 207/414 to go: vChess.jar:/org/junit/validator/AnnotationsValidator.class
+errors(0), warnings(0), notes(0); bytes(7159), time  0.16
+ 50% done, 206/414 to go: vChess.jar:/org/junit/validator/AnnotationsValidator$1.class
+errors(0), warnings(0), notes(0); bytes(2827), time  0.00
+ 50% done, 205/414 to go: vChess.jar:/org/junit/validator/AnnotationValidator.class
+errors(0), warnings(0), notes(0); bytes(4973), time  0.05
+ 50% done, 204/414 to go: vChess.jar:/org/junit/validator/AnnotationValidatorFactory.class
+errors(0), warnings(0), notes(0); bytes(9521), time  0.24
+ 50% done, 203/414 to go: vChess.jar:/org/junit/validator/AnnotationsValidator$ClassValidator.class
+errors(0), warnings(0), notes(0); bytes(7723), time  0.07
+ 51% done, 202/414 to go: vChess.jar:/org/junit/validator/AnnotationsValidator$MethodValidator.class
+errors(0), warnings(0), notes(0); bytes(7579), time  0.10
+ 51% done, 201/414 to go: vChess.jar:/org/junit/validator/AnnotationsValidator$AnnotatableValidator.class
+errors(0), warnings(0), notes(0); bytes(9591), time  0.18
+ 51% done, 200/414 to go: vChess.jar:/org/junit/validator/ValidateWith.class
+errors(0), warnings(0), notes(0); bytes(2431), time  0.00
+ 51% done, 199/414 to go: vChess.jar:/org/junit/validator/TestClassValidator.class
+errors(0), warnings(0), notes(0); bytes(2129), time  0.00
+ 52% done, 198/414 to go: vChess.jar:/org/junit/validator/AnnotationsValidator$FieldValidator.class
+errors(0), warnings(0), notes(0); bytes(7547), time  0.17
+ 52% done, 197/414 to go: vChess.jar:/org/junit/runner/Computer.class
+errors(0), warnings(0), notes(0); bytes(5314), time  0.05
+ 52% done, 196/414 to go: vChess.jar:/org/junit/runner/Description.class
+errors(0), warnings(0), notes(0); bytes(27832), time  0.74
+ 52% done, 195/414 to go: vChess.jar:/org/junit/runner/notification/RunListener.class
+errors(0), warnings(0), notes(0); bytes(5505), time  0.06
+ 53% done, 194/414 to go: vChess.jar:/org/junit/runner/notification/RunNotifier$7.class
+errors(0), warnings(0), notes(0); bytes(4672), time  0.03
+ 53% done, 193/414 to go: vChess.jar:/org/junit/runner/notification/RunNotifier$6.class
+errors(0), warnings(0), notes(0); bytes(4671), time  0.04
+ 53% done, 192/414 to go: vChess.jar:/org/junit/runner/notification/StoppedByUserException.class
+errors(0), warnings(0), notes(0); bytes(7090), time  0.01
+ 53% done, 191/414 to go: vChess.jar:/org/junit/runner/notification/RunNotifier$5.class
+errors(0), warnings(0), notes(0); bytes(4694), time  0.04
+ 54% done, 190/414 to go: vChess.jar:/org/junit/runner/notification/RunNotifier$SafeNotifier.class
+errors(0), warnings(0), notes(0); bytes(6929), time  0.10
+ 54% done, 189/414 to go: vChess.jar:/org/junit/runner/notification/SynchronizedRunListener.class
+errors(0), warnings(0), notes(0); bytes(11825), time  0.66
+ 54% done, 188/414 to go: vChess.jar:/org/junit/runner/notification/RunNotifier$4.class
+errors(0), warnings(0), notes(0); bytes(5110), time  0.06
+ 54% done, 187/414 to go: vChess.jar:/org/junit/runner/notification/RunListener$ThreadSafe.class
+errors(0), warnings(0), notes(0); bytes(2780), time  0.01
+ 55% done, 186/414 to go: vChess.jar:/org/junit/runner/notification/RunNotifier$3.class
+errors(0), warnings(0), notes(0); bytes(4671), time  0.03
+ 55% done, 185/414 to go: vChess.jar:/org/junit/runner/notification/RunNotifier$2.class
+errors(0), warnings(0), notes(0); bytes(4660), time  0.03
+ 55% done, 184/414 to go: vChess.jar:/org/junit/runner/notification/RunNotifier$1.class
+errors(0), warnings(0), notes(0); bytes(4674), time  0.03
+ 55% done, 183/414 to go: vChess.jar:/org/junit/runner/notification/RunNotifier.class
+errors(0), warnings(0), notes(0); bytes(15373), time  0.38
+ 56% done, 182/414 to go: vChess.jar:/org/junit/runner/notification/Failure.class
+errors(0), warnings(0), notes(0); bytes(8575), time  0.13
+ 56% done, 181/414 to go: vChess.jar:/org/junit/runner/Request$1.class
+errors(0), warnings(0), notes(0); bytes(3653), time  0.02
+ 56% done, 180/414 to go: vChess.jar:/org/junit/runner/Computer$1.class
+errors(0), warnings(0), notes(0); bytes(4841), time  0.03
+ 56% done, 179/414 to go: vChess.jar:/org/junit/runner/FilterFactoryParams.class
+errors(0), warnings(0), notes(0); bytes(4423), time  0.05
+ 57% done, 178/414 to go: vChess.jar:/org/junit/runner/Request.class
+errors(0), warnings(0), notes(0); bytes(10090), time  0.20
+ 57% done, 177/414 to go: vChess.jar:/org/junit/runner/Result$1.class
+errors(0), warnings(0), notes(0); bytes(2628), time  0.00
+ 57% done, 176/414 to go: vChess.jar:/org/junit/runner/FilterFactory$FilterNotCreatedException.class
+errors(0), warnings(0), notes(0); bytes(6648), time  0.01
+ 57% done, 175/414 to go: vChess.jar:/org/junit/runner/JUnitCore.class
+errors(0), warnings(0), notes(0); bytes(13546), time  0.53
+ 57% done, 174/414 to go: vChess.jar:/org/junit/runner/manipulation/Filter$1.class
+errors(0), warnings(0), notes(0); bytes(4738), time  0.04
+ 58% done, 173/414 to go: vChess.jar:/org/junit/runner/manipulation/Filterable.class
+errors(0), warnings(0), notes(0); bytes(2242), time  0.00
+ 58% done, 172/414 to go: vChess.jar:/org/junit/runner/manipulation/Sorter$1.class
+errors(0), warnings(0), notes(0); bytes(5017), time  0.06
+ 58% done, 171/414 to go: vChess.jar:/org/junit/runner/manipulation/Sorter.class
+errors(0), warnings(0), notes(0); bytes(6734), time  0.21
+ 58% done, 170/414 to go: vChess.jar:/org/junit/runner/manipulation/Filter$3.class
+errors(0), warnings(0), notes(0); bytes(5972), time  0.08
+ 59% done, 169/414 to go: vChess.jar:/org/junit/runner/manipulation/Filter$2.class
+errors(0), warnings(0), notes(0); bytes(5947), time  0.11
+ 59% done, 168/414 to go: vChess.jar:/org/junit/runner/manipulation/Filter.class
+errors(0), warnings(0), notes(0); bytes(5217), time  0.14
+ 59% done, 167/414 to go: vChess.jar:/org/junit/runner/manipulation/Sortable.class
+errors(0), warnings(0), notes(0); bytes(2141), time  0.01
+ 59% done, 166/414 to go: vChess.jar:/org/junit/runner/manipulation/NoTestsRemainException.class
+errors(0), warnings(0), notes(0); bytes(6891), time  0.01
+ 60% done, 165/414 to go: vChess.jar:/org/junit/runner/RunWith.class
+errors(0), warnings(0), notes(0); bytes(2503), time  0.00
+ 60% done, 164/414 to go: vChess.jar:/org/junit/runner/Runner.class
+errors(0), warnings(0), notes(0); bytes(3120), time  0.02
+ 60% done, 163/414 to go: vChess.jar:/org/junit/runner/Result$SerializedForm.class
+errors(0), warnings(0), notes(0); bytes(12160), time  0.39
+ 60% done, 162/414 to go: vChess.jar:/org/junit/runner/FilterFactories.class
+errors(0), warnings(0), notes(0); bytes(9997), time  0.16
+ 61% done, 161/414 to go: vChess.jar:/org/junit/runner/Describable.class
+errors(0), warnings(0), notes(0); bytes(1758), time  0.00
+ 61% done, 160/414 to go: vChess.jar:/org/junit/runner/JUnitCommandLineParseResult.class
+errors(0), warnings(0), notes(0); bytes(17381), time  0.60
+ 61% done, 159/414 to go: vChess.jar:/org/junit/runner/Result$Listener.class
+errors(0), warnings(0), notes(0); bytes(8853), time  0.11
+ 61% done, 158/414 to go: vChess.jar:/org/junit/runner/JUnitCommandLineParseResult$CommandLineParserError.class
+errors(0), warnings(0), notes(0); bytes(7158), time  0.01
+ 62% done, 157/414 to go: vChess.jar:/org/junit/runner/Result.class
+errors(0), warnings(0), notes(0); bytes(16009), time  0.37
+ 62% done, 156/414 to go: vChess.jar:/org/junit/runner/FilterFactory.class
+errors(0), warnings(0), notes(0); bytes(1962), time  0.00
+ 62% done, 155/414 to go: vChess.jar:/org/junit/Test$None.class
+errors(0), warnings(0), notes(0); bytes(6251), time  0.01
+ 62% done, 154/414 to go: vChess.jar:/org/junit/matchers/JUnitMatchers.class
+errors(0), warnings(0), notes(0); bytes(9749), time  0.15
+ 63% done, 153/414 to go: vChess.jar:/org/junit/ComparisonFailure.class
+errors(0), warnings(0), notes(0); bytes(8126), time  0.05
+ 63% done, 152/414 to go: vChess.jar:/org/junit/runners/Parameterized.class
+errors(0), warnings(0), notes(0); bytes(21214), time  0.69
+ 63% done, 151/414 to go: vChess.jar:/org/junit/runners/model/FrameworkMethod$1.class
+errors(0), warnings(0), notes(0); bytes(5296), time  0.03
+ 63% done, 150/414 to go: vChess.jar:/org/junit/runners/model/InitializationError.class
+errors(0), warnings(0), notes(0); bytes(9439), time  0.06
+ 64% done, 149/414 to go: vChess.jar:/org/junit/runners/model/TestClass$MethodComparator.class
+errors(0), warnings(0), notes(0); bytes(6573), time  0.45
+ 64% done, 148/414 to go: vChess.jar:/org/junit/runners/model/FrameworkMethod.class
+errors(0), warnings(0), notes(0); bytes(21526), time  1.30
+ 64% done, 147/414 to go: vChess.jar:/org/junit/runners/model/TestClass$FieldComparator.class
+errors(0), warnings(0), notes(0); bytes(6326), time  0.17
+ 64% done, 146/414 to go: vChess.jar:/org/junit/runners/model/TestClass.class
+errors(0), warnings(0), notes(0); bytes(35038), time  1.83
+ 64% done, 145/414 to go: vChess.jar:/org/junit/runners/model/FrameworkMember.class
+errors(0), warnings(0), notes(0); bytes(6498), time  0.06
+ 65% done, 144/414 to go: vChess.jar:/org/junit/runners/model/TestTimedOutException.class
+errors(0), warnings(0), notes(0); bytes(8940), time  0.11
+ 65% done, 143/414 to go: vChess.jar:/org/junit/runners/model/Statement.class
+errors(0), warnings(0), notes(0); bytes(2516), time  0.01
+ 65% done, 142/414 to go: vChess.jar:/org/junit/runners/model/FrameworkField.class
+errors(0), warnings(0), notes(0); bytes(11929), time  0.25
+ 65% done, 141/414 to go: vChess.jar:/org/junit/runners/model/Annotatable.class
+errors(0), warnings(0), notes(0); bytes(2346), time  0.00
+ 66% done, 140/414 to go: vChess.jar:/org/junit/runners/model/RunnerBuilder.class
+errors(0), warnings(0), notes(0); bytes(9766), time  0.29
+ 66% done, 139/414 to go: vChess.jar:/org/junit/runners/model/TestClass$1.class
+errors(0), warnings(0), notes(0); bytes(2766), time  0.00
+ 66% done, 138/414 to go: vChess.jar:/org/junit/runners/model/NoGenericTypeParametersValidator.class
+errors(0), warnings(0), notes(0); bytes(12223), time  0.32
+ 66% done, 137/414 to go: vChess.jar:/org/junit/runners/model/RunnerScheduler.class
+errors(0), warnings(0), notes(0); bytes(2275), time  0.00
+ 67% done, 136/414 to go: vChess.jar:/org/junit/runners/model/MultipleFailureException.class
+errors(0), warnings(0), notes(0); bytes(13521), time  0.24
+ 67% done, 135/414 to go: vChess.jar:/org/junit/runners/Suite.class
+errors(0), warnings(0), notes(0); bytes(14944), time  0.32
+ 67% done, 134/414 to go: vChess.jar:/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParametersFactory.class
+errors(0), warnings(0), notes(0); bytes(4776), time  0.03
+ 67% done, 133/414 to go: vChess.jar:/org/junit/runners/parameterized/BlockJUnit4ClassRunnerWithParameters.class
+errors(0), warnings(0), notes(0); bytes(24283), time  1.08
+ 68% done, 132/414 to go: vChess.jar:/org/junit/runners/parameterized/TestWithParameters.class
+errors(0), warnings(0), notes(0); bytes(11061), time  0.21
+ 68% done, 131/414 to go: vChess.jar:/org/junit/runners/parameterized/ParametersRunnerFactory.class
+errors(0), warnings(0), notes(0); bytes(2255), time  0.00
+ 68% done, 130/414 to go: vChess.jar:/org/junit/runners/Parameterized$Parameter.class
+errors(0), warnings(0), notes(0); bytes(2840), time  0.00
+ 68% done, 129/414 to go: vChess.jar:/org/junit/runners/BlockJUnit4ClassRunner$1.class
+errors(0), warnings(0), notes(0); bytes(4465), time  0.03
+ 69% done, 128/414 to go: vChess.jar:/org/junit/runners/ParentRunner.class
+errors(0), warnings(0), notes(0); bytes(28652), time  1.48
+ 69% done, 127/414 to go: vChess.jar:/org/junit/runners/ParentRunner$4.class
+errors(0), warnings(0), notes(0); bytes(4567), time  0.03
+ 69% done, 126/414 to go: vChess.jar:/org/junit/runners/Parameterized$UseParametersRunnerFactory.class
+errors(0), warnings(0), notes(0); bytes(3039), time  0.00
+ 69% done, 125/414 to go: vChess.jar:/org/junit/runners/ParentRunner$3.class
+errors(0), warnings(0), notes(0); bytes(4182), time  0.03
+ 70% done, 124/414 to go: vChess.jar:/org/junit/runners/ParentRunner$2.class
+errors(0), warnings(0), notes(0); bytes(3868), time  0.03
+ 70% done, 123/414 to go: vChess.jar:/org/junit/runners/MethodSorters.class
+errors(0), warnings(0), notes(0); bytes(8019), time  0.14
+ 70% done, 122/414 to go: vChess.jar:/org/junit/runners/Parameterized$Parameters.class
+errors(0), warnings(0), notes(0); bytes(2657), time  0.00
+ 70% done, 121/414 to go: vChess.jar:/org/junit/runners/BlockJUnit4ClassRunner.class
+errors(0), warnings(0), notes(0); bytes(35312), time  1.36
+ 71% done, 120/414 to go: vChess.jar:/org/junit/runners/ParentRunner$1.class
+errors(0), warnings(0), notes(0); bytes(4258), time  0.03
+ 71% done, 119/414 to go: vChess.jar:/org/junit/runners/JUnit4.class
+errors(0), warnings(0), notes(0); bytes(7165), time  0.01
+ 71% done, 118/414 to go: vChess.jar:/org/junit/runners/Suite$SuiteClasses.class
+errors(0), warnings(0), notes(0); bytes(2696), time  0.00
+ 71% done, 117/414 to go: vChess.jar:/org/junit/runners/AllTests.class
+errors(0), warnings(0), notes(0); bytes(4298), time  0.01
+ 71% done, 116/414 to go: vChess.jar:/org/junit/Assume.class
+errors(0), warnings(0), notes(0); bytes(9319), time  0.23
+ 72% done, 115/414 to go: vChess.jar:/org/junit/ComparisonFailure$ComparisonCompactor$DiffExtractor.class
+errors(0), warnings(0), notes(0); bytes(9664), time  0.20
+ 72% done, 114/414 to go: vChess.jar:/org/junit/AssumptionViolatedException.class
+errors(0), warnings(0), notes(0); bytes(9741), time  0.06
+ 72% done, 113/414 to go: vChess.jar:/org/junit/rules/TestName.class
+errors(0), warnings(0), notes(0); bytes(4269), time  0.04
+ 72% done, 112/414 to go: vChess.jar:/org/junit/rules/Stopwatch$InternalWatcher.class
+errors(0), warnings(0), notes(0); bytes(7024), time  0.17
+ 73% done, 111/414 to go: vChess.jar:/org/junit/rules/TestWatcher.class
+errors(0), warnings(0), notes(0); bytes(10565), time  0.42
+ 73% done, 110/414 to go: vChess.jar:/org/junit/rules/ErrorCollector.class
+errors(0), warnings(0), notes(0); bytes(7539), time  0.19
+ 73% done, 109/414 to go: vChess.jar:/org/junit/rules/TestWatchman.class
+errors(0), warnings(0), notes(0); bytes(4858), time  0.07
+ 73% done, 108/414 to go: vChess.jar:/org/junit/rules/ExternalResource$1.class
+errors(0), warnings(0), notes(0); bytes(4084), time  0.06
+ 74% done, 107/414 to go: vChess.jar:/org/junit/rules/Timeout$1.class
+errors(0), warnings(0), notes(0); bytes(4637), time  0.03
+ 74% done, 106/414 to go: vChess.jar:/org/junit/rules/MethodRule.class
+errors(0), warnings(0), notes(0); bytes(1830), time  0.00
+ 74% done, 105/414 to go: vChess.jar:/org/junit/rules/ExpectedExceptionMatcherBuilder.class
+errors(0), warnings(0), notes(0); bytes(8680), time  0.23
+ 74% done, 104/414 to go: vChess.jar:/org/junit/rules/Timeout.class
+errors(0), warnings(0), notes(0); bytes(9389), time  0.24
+ 75% done, 103/414 to go: vChess.jar:/org/junit/rules/Stopwatch$1.class
+errors(0), warnings(0), notes(0); bytes(2646), time  0.00
+ 75% done, 102/414 to go: vChess.jar:/org/junit/rules/Stopwatch.class
+errors(0), warnings(0), notes(0); bytes(8879), time  0.29
+ 75% done, 101/414 to go: vChess.jar:/org/junit/rules/Verifier.class
+errors(0), warnings(0), notes(0); bytes(3147), time  0.03
+ 75% done, 100/414 to go: vChess.jar:/org/junit/rules/TestRule.class
+errors(0), warnings(0), notes(0); bytes(1781), time  0.01
+ 76% done, 99/414 to go: vChess.jar:/org/junit/rules/ErrorCollector$1.class
+errors(0), warnings(0), notes(0); bytes(4679), time  0.03
+ 76% done, 98/414 to go: vChess.jar:/org/junit/rules/RuleChain.class
+errors(0), warnings(0), notes(0); bytes(7776), time  0.16
+ 76% done, 97/414 to go: vChess.jar:/org/junit/rules/ExpectedException$ExpectedExceptionStatement.class
+errors(0), warnings(0), notes(0); bytes(4416), time  0.22
+ 76% done, 96/414 to go: vChess.jar:/org/junit/rules/ExpectedException.class
+errors(0), warnings(0), notes(0); bytes(13350), time  0.26
+ 77% done, 95/414 to go: vChess.jar:/org/junit/rules/Verifier$1.class
+errors(0), warnings(0), notes(0); bytes(3910), time  0.02
+ 77% done, 94/414 to go: vChess.jar:/org/junit/rules/TestWatchman$1.class
+errors(0), warnings(0), notes(0); bytes(4583), time  0.19
+ 77% done, 93/414 to go: vChess.jar:/org/junit/rules/RunRules.class
+errors(0), warnings(0), notes(0); bytes(5217), time  0.06
+ 77% done, 92/414 to go: vChess.jar:/org/junit/rules/Timeout$Builder.class
+errors(0), warnings(0), notes(0); bytes(6169), time  0.06
+ 78% done, 91/414 to go: vChess.jar:/org/junit/rules/TemporaryFolder.class
+errors(0), warnings(0), notes(0); bytes(15167), time  0.50
+ 78% done, 90/414 to go: vChess.jar:/org/junit/rules/TestWatcher$1.class
+errors(0), warnings(0), notes(0); bytes(5768), time  0.08
+ 78% done, 89/414 to go: vChess.jar:/org/junit/rules/ExternalResource.class
+errors(0), warnings(0), notes(0); bytes(3809), time  0.05
+ 78% done, 88/414 to go: vChess.jar:/org/junit/rules/DisableOnDebug.class
+errors(0), warnings(0), notes(0); bytes(7991), time  0.22
+ 78% done, 87/414 to go: vChess.jar:/org/junit/rules/Stopwatch$Clock.class
+errors(0), warnings(0), notes(0); bytes(4108), time  0.02
+ 79% done, 86/414 to go: vChess.jar:/org/junit/After.class
+errors(0), warnings(0), notes(0); bytes(2206), time  0.00
+ 79% done, 85/414 to go: vChess.jar:/org/junit/Assert.class
+errors(0), warnings(0), notes(0); bytes(42458), time  1.66
+ 79% done, 84/414 to go: vChess.jar:/org/junit/ClassRule.class
+errors(0), warnings(0), notes(0); bytes(2335), time  0.00
+ 79% done, 83/414 to go: vChess.jar:/chesspresso/position/view/PositionViewProperties.class
+errors(0), warnings(0), notes(0); bytes(109799), time  1.84
+ 80% done, 82/414 to go: vChess.jar:/chesspresso/position/view/PositionViewProperties$FontListRenderer.class
+errors(0), warnings(0), notes(0); bytes(97112), time  0.08
+ 80% done, 81/414 to go: vChess.jar:/chesspresso/position/view/PositionViewProperties$8.class
+errors(0), warnings(0), notes(0); bytes(4540), time  0.02
+ 80% done, 80/414 to go: vChess.jar:/chesspresso/position/view/PositionViewProperties$7.class
+errors(0), warnings(0), notes(0); bytes(4937), time  0.03
+ 80% done, 79/414 to go: vChess.jar:/chesspresso/position/view/PositionViewProperties$6.class
+errors(0), warnings(0), notes(0); bytes(4540), time  0.03
+ 81% done, 78/414 to go: vChess.jar:/chesspresso/position/view/PositionViewProperties$5.class
+errors(0), warnings(0), notes(0); bytes(4548), time  0.02
+ 81% done, 77/414 to go: vChess.jar:/chesspresso/position/view/PositionViewProperties$4.class
+errors(0), warnings(0), notes(0); bytes(4548), time  0.03
+ 81% done, 76/414 to go: vChess.jar:/chesspresso/position/view/PositionViewProperties$3.class
+errors(0), warnings(0), notes(0); bytes(4548), time  0.02
+ 81% done, 75/414 to go: vChess.jar:/chesspresso/position/view/PositionViewProperties$2.class
+errors(0), warnings(0), notes(0); bytes(4548), time  0.02
+ 82% done, 74/414 to go: vChess.jar:/chesspresso/position/view/PositionViewProperties$1.class
+errors(0), warnings(0), notes(0); bytes(6998), time  0.02
+ 82% done, 73/414 to go: vChess.jar:/chesspresso/position/view/PositionView.class
+errors(0), warnings(0), notes(0); bytes(80418), time  1.36
+ 82% done, 72/414 to go: vChess.jar:/chesspresso/position/PositionMotionListener.class
+errors(0), warnings(0), notes(0); bytes(3047), time  0.00
+ 82% done, 71/414 to go: vChess.jar:/chesspresso/position/PositionListener.class
+errors(0), warnings(0), notes(0); bytes(2601), time  0.00
+ 83% done, 70/414 to go: vChess.jar:/chesspresso/position/PositionChangeListener.class
+errors(0), warnings(0), notes(0); bytes(2544), time  0.00
+ 83% done, 69/414 to go: vChess.jar:/chesspresso/position/Position.class
+errors(0), warnings(0), notes(0); bytes(122625), time 13.75
+ 83% done, 68/414 to go: vChess.jar:/chesspresso/position/NAG.class
+errors(0), warnings(0), notes(0); bytes(59236), time  0.59
+ 83% done, 67/414 to go: vChess.jar:/chesspresso/position/MutablePosition.class
+errors(0), warnings(0), notes(0); bytes(2788), time  0.00
+ 84% done, 66/414 to go: vChess.jar:/chesspresso/position/MoveablePosition.class
+errors(0), warnings(0), notes(0); bytes(3723), time  0.00
+ 84% done, 65/414 to go: vChess.jar:/chesspresso/position/LightWeightPosition.class
+errors(0), warnings(0), notes(0); bytes(14224), time  0.40
+ 84% done, 64/414 to go: vChess.jar:/chesspresso/position/ImmutablePosition.class
+errors(0), warnings(0), notes(0); bytes(5012), time  0.01
+ 84% done, 63/414 to go: vChess.jar:/chesspresso/position/IllegalPositionException.class
+errors(0), warnings(0), notes(0); bytes(6343), time  0.01
+ 85% done, 62/414 to go: vChess.jar:/chesspresso/position/FEN.class
+errors(0), warnings(0), notes(0); bytes(16879), time  1.23
+ 85% done, 61/414 to go: vChess.jar:/chesspresso/position/CompactPosition.class
+errors(0), warnings(0), notes(0); bytes(9249), time  0.32
+ 85% done, 60/414 to go: vChess.jar:/chesspresso/position/AbstractPosition.class
+errors(0), warnings(0), notes(0); bytes(16764), time  1.07
+ 85% done, 59/414 to go: vChess.jar:/chesspresso/position/AbstractMutablePosition.class
+errors(0), warnings(0), notes(0); bytes(21185), time  1.26
+ 85% done, 58/414 to go: vChess.jar:/chesspresso/position/AbstractMoveablePosition.class
+errors(0), warnings(0), notes(0); bytes(5745), time  0.21
+ 86% done, 57/414 to go: vChess.jar:/chesspresso/pgn/PGNWriter.class
+errors(0), warnings(0), notes(0); bytes(14327), time  1.15
+ 86% done, 56/414 to go: vChess.jar:/chesspresso/pgn/PGNWriter$1.class
+errors(0), warnings(0), notes(0); bytes(8346), time  0.34
+ 86% done, 55/414 to go: vChess.jar:/chesspresso/pgn/PGNSyntaxError.class
+errors(0), warnings(0), notes(0); bytes(11445), time  0.32
+ 86% done, 54/414 to go: vChess.jar:/chesspresso/pgn/PGNSimpleErrorHandler.class
+errors(0), warnings(0), notes(0); bytes(4402), time  0.04
+ 87% done, 53/414 to go: vChess.jar:/chesspresso/pgn/PGNReader.class
+errors(0), warnings(0), notes(0); bytes(45513), time  5.21
+ 87% done, 52/414 to go: vChess.jar:/chesspresso/pgn/PGNReader$1.class
+errors(0), warnings(0), notes(0); bytes(4413), time  0.04
+ 87% done, 51/414 to go: vChess.jar:/chesspresso/pgn/PGNErrorHandler.class
+errors(0), warnings(0), notes(0); bytes(2076), time  0.00
+ 87% done, 50/414 to go: vChess.jar:/chesspresso/pgn/PGN.class
+errors(0), warnings(0), notes(0); bytes(12594), time  0.15
+ 88% done, 49/414 to go: vChess.jar:/chesspresso/move/Move.class
+errors(0), warnings(0), notes(0); bytes(31445), time  1.67
+ 88% done, 48/414 to go: vChess.jar:/chesspresso/move/IllegalMoveException.class
+errors(0), warnings(0), notes(0); bytes(11317), time  0.21
+ 88% done, 47/414 to go: vChess.jar:/chesspresso/game/view/HTMLGameBrowser.class
+errors(0), warnings(0), notes(0); bytes(28692), time  1.63
+ 88% done, 46/414 to go: vChess.jar:/chesspresso/game/view/GameTextViewer.class
+errors(0), warnings(0), notes(0); bytes(139029), time  1.96
+ 89% done, 45/414 to go: vChess.jar:/chesspresso/game/view/GameTextViewer$3.class
+errors(0), warnings(0), notes(0); bytes(4832), time  0.03
+ 89% done, 44/414 to go: vChess.jar:/chesspresso/game/view/GameTextViewer$2.class
+errors(0), warnings(0), notes(0); bytes(5763), time  0.23
+ 89% done, 43/414 to go: vChess.jar:/chesspresso/game/view/GameTextViewer$1.class
+errors(0), warnings(0), notes(0); bytes(6697), time  0.04
+ 89% done, 42/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser.class
+errors(0), warnings(0), notes(0); bytes(121880), time  2.11
+ 90% done, 41/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser$9.class
+errors(0), warnings(0), notes(0); bytes(4292), time  0.02
+ 90% done, 40/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser$8.class
+errors(0), warnings(0), notes(0); bytes(4292), time  0.02
+ 90% done, 39/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser$7.class
+errors(0), warnings(0), notes(0); bytes(4292), time  0.02
+ 90% done, 38/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser$6.class
+errors(0), warnings(0), notes(0); bytes(4292), time  0.03
+ 91% done, 37/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser$5.class
+errors(0), warnings(0), notes(0); bytes(4292), time  0.03
+ 91% done, 36/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser$4.class
+errors(0), warnings(0), notes(0); bytes(4292), time  0.02
+ 91% done, 35/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser$3.class
+errors(0), warnings(0), notes(0); bytes(4292), time  0.03
+ 91% done, 34/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser$2.class
+errors(0), warnings(0), notes(0); bytes(4292), time  0.02
+ 92% done, 33/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser$13.class
+errors(0), warnings(0), notes(0); bytes(4654), time  0.13
+ 92% done, 32/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser$12.class
+errors(0), warnings(0), notes(0); bytes(4306), time  0.03
+ 92% done, 31/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser$11.class
+errors(0), warnings(0), notes(0); bytes(4306), time  0.02
+ 92% done, 30/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser$10.class
+errors(0), warnings(0), notes(0); bytes(4305), time  0.02
+ 92% done, 29/414 to go: vChess.jar:/chesspresso/game/view/GameBrowser$1.class
+errors(0), warnings(0), notes(0); bytes(4292), time  0.03
+ 93% done, 28/414 to go: vChess.jar:/chesspresso/game/GameScorer.class
+errors(0), warnings(0), notes(0); bytes(1970), time  0.00
+ 93% done, 27/414 to go: vChess.jar:/chesspresso/game/GameMoveModel.class
+errors(0), warnings(0), notes(0); bytes(38315), time  3.34
+ 93% done, 26/414 to go: vChess.jar:/chesspresso/game/GameModelIterator.class
+errors(0), warnings(0), notes(0); bytes(1967), time  0.00
+ 93% done, 25/414 to go: vChess.jar:/chesspresso/game/GameModelChangeListener.class
+errors(0), warnings(0), notes(0); bytes(2171), time  0.00
+ 94% done, 24/414 to go: vChess.jar:/chesspresso/game/GameModel.class
+errors(0), warnings(0), notes(0); bytes(8121), time  0.24
+ 94% done, 23/414 to go: vChess.jar:/chesspresso/game/GameListener.class
+errors(0), warnings(0), notes(0); bytes(2692), time  0.00
+ 94% done, 22/414 to go: vChess.jar:/chesspresso/game/GameHeaderModel.class
+errors(0), warnings(0), notes(0); bytes(28103), time  1.44
+ 94% done, 21/414 to go: vChess.jar:/chesspresso/game/Game.class
+errors(0), warnings(0), notes(0); bytes(56837), time  3.30
+ 95% done, 20/414 to go: vChess.jar:/chesspresso/game/DefaultGameScorer.class
+errors(0), warnings(0), notes(0); bytes(4422), time  0.13
+ 95% done, 19/414 to go: vChess.jar:/chesspresso/engines/ChXBoardEngine.class
+errors(0), warnings(0), notes(0); bytes(30224), time  1.67
+ 95% done, 18/414 to go: vChess.jar:/chesspresso/engines/ChXBoardEngine$Listener.class
+errors(0), warnings(0), notes(0); bytes(2239), time  0.00
+ 95% done, 17/414 to go: vChess.jar:/chesspresso/engines/ChXBoardEngine$EngineMessageListener.class
+errors(0), warnings(0), notes(0); bytes(5769), time  0.06
+ 96% done, 16/414 to go: vChess.jar:/chesspresso/engines/ChXBoardEngine$AnalysisListener.class
+errors(0), warnings(0), notes(0); bytes(2640), time  0.00
+ 96% done, 15/414 to go: vChess.jar:/chesspresso/engines/ChXBoardEngine$1.class
+errors(0), warnings(0), notes(0); bytes(2743), time  0.00
+ 96% done, 14/414 to go: vChess.jar:/chesspresso/Chess.class
+errors(0), warnings(0), notes(0); bytes(26613), time  0.75
+ 96% done, 13/414 to go: vChess.jar:/vChess/ICli.class
+errors(0), warnings(0), notes(0); bytes(1779), time  0.00
+ 97% done, 12/414 to go: vChess.jar:/vChess/Flags.class
+errors(0), warnings(0), notes(0); bytes(4313), time  0.04
+ 97% done, 11/414 to go: vChess.jar:/vChess/UTEngine.class
+errors(0), warnings(0), notes(0); bytes(9111), time  0.49
+ 97% done, 10/414 to go: vChess.jar:/vChess/MainClass.class
+errors(0), warnings(0), notes(0); bytes(7191), time  0.20
+ 97% done, 9/414 to go: vChess.jar:/vChess/Coefficients.class
+errors(0), warnings(0), notes(0); bytes(4725), time  0.08
+ 98% done, 8/414 to go: vChess.jar:/vChess/Engine.class
+errors(0), warnings(0), notes(0); bytes(11054), time  0.67
+ 98% done, 7/414 to go: vChess.jar:/vChess/SharedData.class
+errors(0), warnings(0), notes(0); bytes(5570), time  0.09
+ 98% done, 6/414 to go: vChess.jar:/vChess/HandyUtil.class
+errors(0), warnings(0), notes(0); bytes(6250), time  0.10
+ 98% done, 5/414 to go: vChess.jar:/vChess/OwnCli.class
+errors(0), warnings(0), notes(0); bytes(8243), time  0.30
+ 99% done, 4/414 to go: vChess.jar:/vChess/LocalizableStrings.class
+errors(0), warnings(0), notes(0); bytes(3125), time  0.02
+ 99% done, 3/414 to go: vChess.jar:/vChess/LocalizableStrings$Welcomes.class
+errors(0), warnings(0), notes(0); bytes(3080), time  0.01
+ 99% done, 2/414 to go: vChess.jar:/vChess/LocalizableStrings$Messages.class
+errors(0), warnings(0), notes(0); bytes(3080), time  0.01
+ 99% done, 1/414 to go: vChess.jar:/vChess/LocalizableStrings$Errors.class
+errors(0), warnings(0), notes(0); bytes(3058), time  0.02
+
+Optimizing compiler statistics
+==============================
+Methods compilation stats:
+  All methods : 2563 out of 2565  (99%)
+
+Crashes messages:
+2: com.excelsior.jet.bjc.compiler.NotImplementedFeatureException: not implemented feature HUGE_CLINITS
+
+
+New "C:/Users/alexander/workspace/vChess/dist/vChess_jetpdb/nums.clnums" is generated
+Preparing resources for packing ...
+Processing vChess.jar ...
+Resources were successfully prepared for packing.
+-------------------------------------------------------------------
+files: 414  errors: 0  warnings: 0  notices: 0
+
+XDS Link Version 2.24.14 Copyright (c) Excelsior 1995-2014.
+No errors, no warnings
+
+Link time 0:01.36
+
+Total compilation time 2:32.53
+
